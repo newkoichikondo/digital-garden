@@ -5,6 +5,7 @@ import { generateSidebar } from 'vitepress-sidebar';
 export default defineConfig({
   title: "Koichi's Garden",
   description: "Koichi's デジタルガーデン",
+  lang: "jp-JP",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -54,5 +55,6 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
-  }
+  },
+  cleanUrls: true,
 })
