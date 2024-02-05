@@ -1,25 +1,9 @@
----
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
+# Koichi's Digital Garden
 
-hero:
-  name: "Koichi's Garden"
-  text: "デジタルガーデン"
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+## このサイトについて
+「Koichi's Digital Garden」は「近藤宏一」個人の[デジタルガーデン](concept/digital-garden.md)です。
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
+庭を手入れするように、時間をかけて作り上げていこうと思います。
 
+## 問い合わせ
+[こちら](https://forms.gle/M5kwbKQJ5SQz1bKF9)のフォームからお問い合わせください。

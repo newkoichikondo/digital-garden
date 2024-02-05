@@ -3,14 +3,14 @@ import { generateSidebar } from 'vitepress-sidebar';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Koichi's Garden",
-  description: "Koichi's デジタルガーデン",
+  title: "Koichi's Digital Garden",
+  description: "個人の学び、思考、知識、アイデアを非線形かつ進化的な形式で整理し、共有するためのウェブスペース",
   lang: "jp-JP",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Privacy Policy', link: '/privacy-policy' }
     ],
 
     sidebar: generateSidebar({
@@ -29,7 +29,7 @@ export default defineConfig({
       // underscoreToSpace: true,
       // capitalizeFirst: true,
       // capitalizeEachWords: false,
-      // collapsed: true,
+      collapsed: true,
       // collapseDepth: 2,
       sortMenusByName: true,
       // sortMenusByFrontmatterOrder: false,
@@ -37,7 +37,7 @@ export default defineConfig({
       // sortMenusOrderNumerically: false,
       // frontmatterOrderDefaultValue: 0,
       // manualSortFileNameByPriority: ['first.md', 'second', 'third.md'],
-      // excludeFiles: ['first.md', 'secret.md'],
+      excludeFiles: ['privacy-policy.md'],
       // excludeFolders: ['secret-folder'],
       // includeDotFiles: false,
       // includeRootIndexFile: false,
@@ -53,8 +53,32 @@ export default defineConfig({
     }),
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+      { icon: 'instagram', link: 'https://www.instagram.com/newkoichikondo/' },
+      { icon: 'x', link: 'https://twitter.com/NewKoichiKondo' },
+      { icon: 'github', link: 'https://github.com/newkoichikondo' },
+    ],
+    footer: {
+      copyright: '© koichikondo.com'
+    },
+    outline: {
+      label: '目次'
+    },
+    lastUpdated: {
+      // text: '最終更新',
+      formatOptions: {
+        dateStyle: 'medium', // 日付のスタイル
+        timeStyle: 'short', // 時刻のスタイル
+      }
+    },
+    docFooter: {
+      prev: '←',
+      next: '→'
+    }
   },
+  lastUpdated: true,
   cleanUrls: true,
+  sitemap: {
+    hostname: 'https://koichikondo.com'
+  },
 })
+
