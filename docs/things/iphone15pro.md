@@ -1,4 +1,5 @@
-# iPhone 15 Pro
+# iPhone 15 Pro （保有）
+## 購入情報
 - 購入日: 2023年9月15日
 - 購入場所: アップルストアオンライン
 - 購入金額: 159,800円
@@ -26,7 +27,7 @@ iPhone 13 Proからの買い替えで、バッテリーの消耗が激しかっ�
 
 実はAirPods ProがLightning端子だが、これはApple Watch UltraのMagSage充電器を共用できるのであまり問題になっていない。
 
-## 微妙ポイント
+## いまいちポイント
 ### Dynamic Islandがいまいち活躍していない。
 対応するアプリが少ないのか、自分が使いこなせていないだけなのかはわからないが、13 Pro以前の上から通知が降りてくるのとあまり変わらない気がする。
 
@@ -39,3 +40,8 @@ iPhone 13 Proからの買い替えで、バッテリーの消耗が激しかっ�
 - Apple Watchのアクティビティのウィジェット
 
 バッテリーの消費が気になるので壁紙はオフにしている。
+
+## アクセサリー
+- [Spigen iPhone 15 Pro ケース](https://amzn.to/3OCkgqu)
+- [ESR Armorite 保護フィルム](https://amzn.to/3OCZTtn)
+- [Anker Nano Power Bank](https://amzn.to/3StvdvP)

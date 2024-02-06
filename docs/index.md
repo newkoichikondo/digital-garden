@@ -1,9 +1,9 @@
 # Koichi's Digital Garden
 
 ## このサイトについて
-「Koichi's Digital Garden」は「近藤宏一」個人の[デジタルガーデン](concept/digital-garden.md)です。
+「Koichi's Digital Garden」は「近藤宏一」個人の[デジタルガーデン](note/digital-garden)です。
 
-庭を手入れするように、時間をかけて作り上げていこうと思います。
+自分だけの庭を手入れするように、時間をかけて作り上げていこうと思います。
 
 ## 問い合わせ
 [こちら](https://forms.gle/M5kwbKQJ5SQz1bKF9)のフォームからお問い合わせください。
