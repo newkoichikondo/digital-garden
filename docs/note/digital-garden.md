@@ -1,3 +1,11 @@
+---
+title: digital garden
+date: 2023-03-10T21:57:03+09:00
+next: false
+prev: false
+tags: books
+---
+
 # デジタルガーデン
 
 PKM(Personal knowledge Management)の一種で、個人の学び、思考、知識、アイデアを題材にデジタルな庭造り（デジタルガーデニング）を楽しむための場所。

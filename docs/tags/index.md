@@ -6,7 +6,7 @@ prev: false
 ---
 
 <script setup>
-import { data as posts } from '../../.vitepress/theme/posts.data.js'
+// import { data as posts } from '../../.vitepress/theme/posts.data.js'
 
 var tags = {}
 posts.forEach(post => {

@@ -7,7 +7,7 @@ prev: false
 
 <script setup>
 import { useData } from 'vitepress'
-import { data as posts } from '../../../.vitepress/theme/posts.data.js'
+// import { data as posts } from '../../../.vitepress/theme/posts.data.js'
 
 const { params } = useData()
 const current_tag = params.value.tag

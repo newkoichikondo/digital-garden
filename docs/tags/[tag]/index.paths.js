@@ -3,7 +3,7 @@ import { globSync } from 'glob'
 
 var tags = {}
 
-var files = globSync('content/posts/**/*.md');
+var files = globSync('/docs/**/*.md');
 
 files.forEach(file => {
     var data = fs.readFileSync(file, 'utf8');
