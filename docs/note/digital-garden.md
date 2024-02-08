@@ -1,3 +1,7 @@
+---
+tag: test,digital
+---
+
 # デジタルガーデン
 
 PKM(Personal knowledge Management)の一種で、個人の学び、思考、知識、アイデアを題材にデジタルな庭造り（デジタルガーデニング）を楽しむための場所。
