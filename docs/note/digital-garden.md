@@ -1,5 +1,7 @@
 ---
-tag: test,digital
+title: VueとJavaScriptについて
+date: 2024-02-01
+tags: [Vue, JavaScript]
 ---
 
 # デジタルガーデン
