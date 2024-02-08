@@ -10,7 +10,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Privacy Policy', link: '/privacy-policy' }
+      { text: 'Privacy Policy', link: '/privacy-policy' },
     ],
 
     sidebar: generateSidebar({
