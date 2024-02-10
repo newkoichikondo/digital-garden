@@ -1,5 +1,6 @@
 # BELKIN BoostCharge Pro
 ## 購入情報
+- 購入リンク: <https://amzn.to/3SUCYMP>
 - 購入日: 2022年12月5日
 - 購入場所: 楽天市場
 - 購入金額: ¥19,900
