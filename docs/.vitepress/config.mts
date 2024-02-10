@@ -24,7 +24,7 @@ export default defineConfig({
       useTitleFromFileHeading: true,
       // useTitleFromFrontmatter: true,
       useFolderTitleFromIndexFile: true,
-      useFolderLinkFromIndexFile: true,
+      useFolderLinkFromIndexFile: false,
       // hyphenToSpace: true,
       // underscoreToSpace: true,
       // capitalizeFirst: true,
