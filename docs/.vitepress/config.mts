@@ -80,5 +80,19 @@ export default defineConfig({
   sitemap: {
     hostname: 'https://koichikondo.com'
   },
+  head: [
+    [
+      'script',
+      { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-SBHB4KZ47S' }
+    ],
+    [
+      'script',
+      {},
+      `window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-SBHB4KZ47S');`
+    ]
+  ],
 })
 
