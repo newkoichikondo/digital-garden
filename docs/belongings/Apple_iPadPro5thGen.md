@@ -1,5 +1,6 @@
 # iPad Pro 12.9-inch（第5世代）
 ## 購入情報
+- 購入リンク: <https://amzn.to/3wescIp>
 - 譲受日: 2024年2月7日
 - 譲受人: F氏
 - 譲受金額: 80,000円（iPad mini 6と交換）
