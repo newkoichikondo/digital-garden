@@ -8,7 +8,6 @@ export default defineConfig({
   lang: "jp-JP",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/logo.svg',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Privacy Policy', link: '/privacy-policy' },
@@ -82,7 +81,6 @@ export default defineConfig({
     hostname: 'https://koichikondo.com'
   },
   head: [
-    ['link', { rel: 'icon', href: '/logo.ico' }],
     [
       'script',
       { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-SBHB4KZ47S' }
