@@ -21,3 +21,8 @@
 
 詳しくは下記のページに書き記す。
 
+[マクロ栄養素管理](./macronutrient-management)
+
+## 日々のルーティーンメニュー
+### 朝食（といっても午前10時頃）
+- プロテインシェイク（メニューは[T-fal-Blender](../belongings/T-fal-Blender)の記事で紹介）
