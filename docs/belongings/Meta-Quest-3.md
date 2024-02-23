@@ -27,9 +27,11 @@ Quest 2の時に比べ1.5倍ほど電池の減りが早い気がする。チッ�
 - [エレコム クリーナー 超強力クロス](https://amzn.to/42SDXR6)
 ## おすすめソフト
 Meta StoreではMeta Questシリーズで遊べるソフトを販売しているが、ゲームソフト・アプリケーションの招待リンクへアクセスした後に購入すると、25%OFFの価格で購入する事が出来る。招待した人は650円分のストアポイントを貰う事が出来るので、是非リンクを利用していただきたい。
+
 ::: DANGER 注意
 セール中の商品や、ゲームソフトのDLC及び、DLCがセットになって割引状態のゲームソフトやアプリには適応外となる。
 :::
+
 ### Beat Saber
 [購入リンク](https://www.oculus.com/appreferrals/BroAiden/2448060205267927/?utm_source=oculus&utm_location=4&utm_parent=frl&utm_medium=app_referral)
 
@@ -49,7 +51,16 @@ Meta StoreではMeta Questシリーズで遊べるソフトを販売している
 
 などもFitXRに比べ好感を持てる。
 
+### LEGO® Bricktales
+[購入リンク](https://www.oculus.com/appreferrals/BroAiden/6521909757843713/?utm_source=oculus&utm_location=4&utm_parent=frl&utm_medium=app_referral)
+
+VR（MR）とLEGOの相性がとても良い。
+
+部屋の中に現れるLEGOのジオラマを舞台に、キャラを動かしたりパズルを解いたりするゲーム。個人的にかなり感動したので、是非姪と甥にもプレイして欲しい。（Quest 3の対象年齢を確認しないと…）
+
 ### FitXR
 おすすめはしないが、Quest 2でかなりの時間はプレイした。
 
-当時は愛用していたが、月額課金制になり→購入者たちから低評価の嵐→購入済みの人はある程度のコンテンツを遊べる
+当時はエクササイズアプリの選択肢が少なく、一番マシだったので愛用していた。
+
+しかしある時に月額課金制になり→購入者たちから低評価の嵐→購入済みの人はある程度のコンテンツを遊べる+今は月額課金制、となり買い切りのLES MILLS BODYCONBATに移行した。
