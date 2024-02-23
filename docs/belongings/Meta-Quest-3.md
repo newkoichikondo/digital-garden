@@ -26,5 +26,15 @@ Quest 2の時に比べ1.5倍ほど電池の減りが早い気がする。チッ�
 - [Oculus link適用 ケーブル 5M USB-C to USB-C](https://amzn.to/3womPX3)
 - [エレコム クリーナー 超強力クロス](https://amzn.to/42SDXR6)
 ## おすすめソフト
+Meta StoreではMeta Questシリーズで遊べるソフトを販売しているが、ゲームソフト・アプリケーションの招待リンクへアクセスした後に購入すると、25%OFFの価格で購入する事が出来る。招待した人は650円分のストアポイントを貰う事が出来るので、是非リンクを利用していただきたい。
+::: DANGER 注意
+セール中の商品や、ゲームソフトのDLC及び、DLCがセットになって割引状態のゲームソフトやアプリには適応外となる。
+:::
 ### Beat Saber
-購入リンク: <https://www.oculus.com/appreferrals/BroAiden/2448060205267927/?utm_source=oculus&utm_location=4&utm_parent=frl&utm_medium=app_referral>
+[購入リンク](https://www.oculus.com/appreferrals/BroAiden/2448060205267927/?utm_source=oculus&utm_location=4&utm_parent=frl&utm_medium=app_referral)
+
+言わずもがな、VRやQuestの入門ゲームといえばBeat Saber。Quest 2の時は非公式な方法でカスタム曲などを入れて遊んでいた。現在は公式から提供されている、Panic! At The DiscoとImagine DragonsのMusic Packと、BTSのDynamiteを単品で購入して遊んでいる。
+### LES MILLS BODYCONBAT
+[購入リンク](https://www.oculus.com/appreferrals/BroAiden/4015163475201433/?utm_source=oculus&utm_location=4&utm_parent=frl&utm_medium=app_referral)
+
+エクササイズアプリ。以前はFITXRというボクササイズアプリを愛用していたが、
