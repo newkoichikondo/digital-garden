@@ -37,4 +37,19 @@ Meta StoreではMeta Questシリーズで遊べるソフトを販売している
 ### LES MILLS BODYCONBAT
 [購入リンク](https://www.oculus.com/appreferrals/BroAiden/4015163475201433/?utm_source=oculus&utm_location=4&utm_parent=frl&utm_medium=app_referral)
 
-エクササイズアプリ。以前はFITXRというボクササイズアプリを愛用していたが、
+エクササイズアプリ。FitXRからの乗り換え。（下記参照）
+
+同じところが作っているLES MILLS XR DANCEというアプリもあるが試してはいない。
+
+音楽のノリはFitXRのほうが好みだが、BODYCONBATのほうがトレーナーの励ましがとてもやる気にさせてくれる。（激しいし面白い）
+
+他にも
+- パンチの音が気持ちいい
+- スクワットしながらのパンチが多め→心拍数が上がりやすい気がする
+
+などもFitXRに比べ好感を持てる。
+
+### FitXR
+おすすめはしないが、Quest 2でかなりの時間はプレイした。
+
+当時は愛用していたが、月額課金制になり→購入者たちから低評価の嵐→購入済みの人はある程度のコンテンツを遊べる
