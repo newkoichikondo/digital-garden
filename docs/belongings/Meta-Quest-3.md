@@ -22,3 +22,9 @@ Quest 2の時に比べ1.5倍ほど電池の減りが早い気がする。チッ�
 
 ## アクセサリー
 - [Maecker フェイスパッド Quest 3用](https://amzn.to/48srLHy)
+- [Maecker vr ヘッドストラップ Meta Quest 3 用](https://amzn.to/3IuB27P)
+- [Oculus link適用 ケーブル 5M USB-C to USB-C](https://amzn.to/3womPX3)
+- [エレコム クリーナー 超強力クロス](https://amzn.to/42SDXR6)
+## おすすめソフト
+### Beat Saber
+購入リンク: <https://www.oculus.com/appreferrals/BroAiden/2448060205267927/?utm_source=oculus&utm_location=4&utm_parent=frl&utm_medium=app_referral>
