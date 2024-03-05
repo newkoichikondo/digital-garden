@@ -8,16 +8,26 @@
 ## 訪問先
 ### 2024年1月19日
 - [PASTA SLOW](https://maps.app.goo.gl/qSfAsmoSbtNahYQg9)
+	- パスタランチ
 - [屋久杉自然館](https://maps.app.goo.gl/HEQiztFpj8AeiXBg9)
+	- 是非とも屋久島観光前に行っておきたい
 - [屋久島世界遺産センター](https://maps.app.goo.gl/uP8KZWJ4QrUPq3QeA)
+	- 世界遺産登録証あり
 - [Panorama](https://maps.app.goo.gl/EnFr5Pr47YEpAC5o9)
+	- おしゃれなバー、角煮丼（？）がおすすめ
 ### 2024年1月20日
 - [予約優先プラーナカフェgecko](https://maps.app.goo.gl/MvonEXpCthRF8uhb9)
-- [ヤクスギランド](https://maps.app.goo.gl/JXL6D186V36jLRiWA) - 天文の森まで
+	- 予約無しでは持ち帰りのみ、SNSに写真をアップロードするのは禁止、トビウオサンド
+- [ヤクスギランド](https://maps.app.goo.gl/JXL6D186V36jLRiWA)
+	- 天文の森まで、当然のように雨でなかなか過酷、入口にヤクザル
 - [【ne-】 Plant-based Cafe & Act](https://maps.app.goo.gl/jewHgyfc7n7Spq2E6)
+	- 植物由来系おしゃれカフェ、ブッダボウルがおすすめ
 - [大川の滝（おおこのたき）](https://maps.app.goo.gl/wzDvGETS8YYYxphK6)
+	- 空港の真反対側、滝の迫力が凄い
 - [湯泊温泉](https://maps.app.goo.gl/bPGmcdmKXHkgxdQB6)
+	- タオルを持ってなかったので温泉には入らず
 - [お食事処 潮騒](https://maps.app.goo.gl/zLLTJ6z6LhyZ3AyN9)
+	- 定食が充実してるので
 ### 2024年1月21日
 - [Kitchen HUB Dining](https://maps.app.goo.gl/vuoaTQvFPRt1PjCo9)
 - [白谷雲水峡](https://maps.app.goo.gl/R99TzGykWjA8veAA7) - 苔むす森まで
