@@ -19,4 +19,16 @@
 - [湯泊温泉](https://maps.app.goo.gl/bPGmcdmKXHkgxdQB6)
 - [お食事処 潮騒](https://maps.app.goo.gl/zLLTJ6z6LhyZ3AyN9)
 ### 2024年1月21日
+- [Kitchen HUB Dining](https://maps.app.goo.gl/vuoaTQvFPRt1PjCo9)
+- [白谷雲水峡](https://maps.app.goo.gl/R99TzGykWjA8veAA7) - 苔むす森まで
+- [イルマーレ](https://maps.app.goo.gl/hFZpLLpm3kVYEPxS7)
+- [志戸子ガジュマル公園](https://maps.app.goo.gl/146ydC3zZ4vzKzVHA)
+- [西部林道](https://maps.app.goo.gl/bShCJGy5m7TNrR8H6)
+- [屋久島灯台](https://maps.app.goo.gl/mSd98GXbaxy81v6i9)
+- [波の華](https://maps.app.goo.gl/jWTvsBTyvwuuLNEq7)
 ### 2024年1月22日
+- 予約優先プラーナカフェgecko
+- [牛床詣所](https://maps.app.goo.gl/Tk6fBpeFyTuVZVL37)
+- [屋久島総合自然公園](https://maps.app.goo.gl/dfYgGjRidEwfGe7h7)
+- [YAKUSHIMA BLESS](https://maps.app.goo.gl/yBNnabGYkAtJaofG8)
+- [屋久島特産品しょっぴんぐせんた]
