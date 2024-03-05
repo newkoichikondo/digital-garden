@@ -14,24 +14,44 @@
 - [屋久島世界遺産センター](https://maps.app.goo.gl/uP8KZWJ4QrUPq3QeA)
 	- 世界遺産登録証あり
 - [Panorama](https://maps.app.goo.gl/EnFr5Pr47YEpAC5o9)
-	- おしゃれなバー、角煮丼（？）がおすすめ
+	- おしゃれなバー
+	- 角煮丼（？）がおすすめ
 ### 2024年1月20日
 - [予約優先プラーナカフェgecko](https://maps.app.goo.gl/MvonEXpCthRF8uhb9)
-	- 予約無しでは持ち帰りのみ、SNSに写真をアップロードするのは禁止、トビウオサンド
+	- 予約無しでは持ち帰りのみ
+	- SNSに写真をアップロードするのは禁止
+	- トビウオサンド→食感しっかりめの白身魚サンド
 - [ヤクスギランド](https://maps.app.goo.gl/JXL6D186V36jLRiWA)
-	- 天文の森まで、当然のように雨でなかなか過酷、入口にヤクザル
+	- 天文の森までトレッキング
+	- 当然のように雨でなかなか過酷
+	- 入口にヤクザル
 - [【ne-】 Plant-based Cafe & Act](https://maps.app.goo.gl/jewHgyfc7n7Spq2E6)
-	- 植物由来系おしゃれカフェ、ブッダボウルがおすすめ
+	- 植物由来系おしゃれカフェ
+	- ブッダボウルがおすすめ
 - [大川の滝（おおこのたき）](https://maps.app.goo.gl/wzDvGETS8YYYxphK6)
-	- 空港の真反対側、滝の迫力が凄い
+	- 空港の真反対側
+	- 滝の迫力が凄い
 - [湯泊温泉](https://maps.app.goo.gl/bPGmcdmKXHkgxdQB6)
 	- タオルを持ってなかったので温泉には入らず
 - [お食事処 潮騒](https://maps.app.goo.gl/zLLTJ6z6LhyZ3AyN9)
-	- 定食が充実してるので
+	- 定食が充実してるのでお酒を飲まない人も安心して入れる
+	- トビウオの唐揚げがついた刺身定食は満足度高い
 ### 2024年1月21日
 - [Kitchen HUB Dining](https://maps.app.goo.gl/vuoaTQvFPRt1PjCo9)
-- [白谷雲水峡](https://maps.app.goo.gl/R99TzGykWjA8veAA7) - 苔むす森まで
+	- 朝食難民で仕方なく
+	- 11時までデザートメニューのみ
+- [白谷雲水峡](https://maps.app.goo.gl/R99TzGykWjA8veAA7)
+	- 苔むす森までトレッキング
+	- 前日に比べ過酷さはない
+	- その割に川の上の岩を歩いたり、森の景観が美しいく満足度高い
+	- 入口にヤクザル
 - [イルマーレ](https://maps.app.goo.gl/hFZpLLpm3kVYEPxS7)
+	- 屋久島旅行イチのおすすめレストラン
+	- 食べたもの全部おすすめ
+		- ピザ（シイタケベジー）
+		- パスタ（屋久島産黒豚のラグーソース）
+		- ドルチェ（スフォリアテッラ）
+		- コーヒー（カプチーノ）
 - [志戸子ガジュマル公園](https://maps.app.goo.gl/146ydC3zZ4vzKzVHA)
 - [西部林道](https://maps.app.goo.gl/bShCJGy5m7TNrR8H6)
 - [屋久島灯台](https://maps.app.goo.gl/mSd98GXbaxy81v6i9)
