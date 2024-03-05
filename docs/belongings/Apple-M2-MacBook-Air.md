@@ -1,4 +1,4 @@
-# M2 MacBook Air 13inch
+# M2 MacBook Air 13-inch
 ## 購入情報
 - 購入リンク: <https://amzn.to/3SUXfkf>
 - 購入日: 2022年9月27日
