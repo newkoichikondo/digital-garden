@@ -157,3 +157,6 @@
 ::: tip Googleドキュメント
 [総社員の同意書（テンプレート）](https://docs.google.com/document/d/1PbIh3GNaX7oKl735YM-u8eqhixjqsUYZgX9zT9W-3ec/copy)
 :::
+## 申請用総合ソフト
+### 合同会社変更登記申請書の作成
+〜この先執筆中〜
