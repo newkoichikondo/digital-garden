@@ -22,3 +22,6 @@
 - ホテルに着いてからチェックインの手続き、詳細は上述。
 - [Bun Cha Ta Hanoi](https://maps.app.goo.gl/k537phyiyZerYCiU6)でランチを食べていた日本からの友人たちに合流、ブンチャを食べた。
 - [Cafe Giảng](https://maps.app.goo.gl/PvWFXgLYGm7fdwoU9)でベトナムエッグコーヒーを飲んだ。個人的にエッグコーヒー自体があまり好みではない。
+- 壁画ストリート、とにかく暑かったのでインスタ映えどころではない。
+- [Banh Mi Hoi An](https://maps.app.goo.gl/ukRTgk7sRPySt5YY9)でバインミーを購入、ベトナムのバインミーは安くて美味しい。
+- この先執筆中
