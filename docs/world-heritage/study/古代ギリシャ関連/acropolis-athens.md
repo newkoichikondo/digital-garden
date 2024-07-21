@@ -15,4 +15,5 @@
 アクロポリスの入口に立つ門。紀元前437年に建造開始、ペロポネソス戦争の勃発で未完成に終わった。前面背面は6本のドーリア式の円柱をもつ神殿形式。内部通路の両側には各3本のイオニア式の円柱が並ぶ。
 ![プロピレア](https://upload.wikimedia.org/wikipedia/commons/f/f6/East_Facade_of_the_Propylaea_on_July_23%2C_2019.jpg)
 ### アテナ・ニケ神殿
-紀元前426〜421年に建築家カリクラティスによって建造・両側の短辺に4つの1枚岩の柱を備えた小さなイオニア式の円形柱構造の神殿。
+紀元前426〜421年に建築家カリクラティスによって建造・両側の短辺に4つの1枚岩の柱を備えた小さなイオニア式の円形柱構造の神殿。ニケはギリシャ語で「勝利」の意味。神殿には勝利の女神ニケが飛び去ってしまわないように翼が切り落とされたニケの像が祀られていた。
+![アテナ・ニケ神殿](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Temple_of_Athena_Nik%C3%A8_from_Propylaea%2C_Acropolis%2C_Athens%2C_Greece.jpg/2560px-Temple_of_Athena_Nik%C3%A8_from_Propylaea%2C_Acropolis%2C_Athens%2C_Greece.jpg)
