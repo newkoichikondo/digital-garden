@@ -17,3 +17,7 @@
 ### アテナ・ニケ神殿
 紀元前426〜421年に建築家カリクラティスによって建造・両側の短辺に4つの1枚岩の柱を備えた小さなイオニア式の円形柱構造の神殿。ニケはギリシャ語で「勝利」の意味。神殿には勝利の女神ニケが飛び去ってしまわないように翼が切り落とされたニケの像が祀られていた。
 ![アテナ・ニケ神殿](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Temple_of_Athena_Nik%C3%A8_from_Propylaea%2C_Acropolis%2C_Athens%2C_Greece.jpg/2560px-Temple_of_Athena_Nik%C3%A8_from_Propylaea%2C_Acropolis%2C_Athens%2C_Greece.jpg)
+### フェイディアス
+今日のアクロポリスで見ることのできる最も重要な建造物を建造する計画に参加した、当時の最も偉大な彫刻家。
+### プラトン
+ソクラテスやアリストテレスなどとアクロポリス北西部のアゴラに集まり哲学や政治を論じた哲学者。
