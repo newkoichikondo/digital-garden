@@ -75,7 +75,6 @@ export default defineConfig({
       next: '→'
     }
   },
-  srcExclude: ['world-heritage/study'],
   lastUpdated: true,
   cleanUrls: true,
   sitemap: {
