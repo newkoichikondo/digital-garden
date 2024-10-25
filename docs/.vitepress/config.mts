@@ -38,7 +38,7 @@ export default defineConfig({
       // frontmatterOrderDefaultValue: 0,
       // manualSortFileNameByPriority: ['first.md', 'second', 'third.md'],
       excludeFiles: ['privacy-policy.md'],
-      // excludeFolders: ['world-heritage'],
+      excludeFolders: ['private'],
       // includeDotFiles: false,
       // includeRootIndexFile: false,
       // includeFolderIndexFile: false,
