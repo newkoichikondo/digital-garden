@@ -1,7 +1,8 @@
 # ヨアヒム・ノイマン
 #ドイツ人 
 
-![](https://www.theguardian.com/world/2019/jul/12/experience-i-tunnelled-under-the-berlin-wall#img-1)
+![](https://i.guim.co.uk/img/media/7fb3d69189f05075bcc23b671aeafbc98dbc76e9/0_619_8256_4954/master/8256.jpg?width=1900&dpr=2&s=none&crop=none)
+
 ヨアヒム・ノイマンは、冷戦時代の東西ドイツ分断期に、ベルリンの壁の下を通るトンネルを掘り、東ドイツから西ドイツへの脱出を助けた人物として知られています。
 
 ## 経歴
