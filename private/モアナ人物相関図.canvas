@@ -1,23 +1,25 @@
 {
 	"nodes":[
 		{"id":"c3d923c4a41a020d","type":"file","file":"private/モアナ.md","x":-520,"y":-160,"width":260,"height":280},
-		{"id":"2ddab93af510a59b","type":"file","file":"private/シーナ.md","x":-720,"y":-580,"width":160,"height":160},
-		{"id":"53d3171ffc0750a8","type":"file","file":"private/トゥイ.md","x":-485,"y":-600,"width":180,"height":200},
 		{"id":"d680f6e825498355","type":"file","file":"private/マウイ.md","x":40,"y":-160,"width":250,"height":280},
-		{"id":"030590c268384139","type":"file","file":"private/テ・フィティ.md","x":40,"y":-530,"width":220,"height":220},
 		{"id":"7b5333af4adc5411","type":"file","file":"private/テ・カァ.md","x":500,"y":-530,"width":220,"height":220},
 		{"id":"2bd0b502887a0dd8","type":"file","file":"private/海.md","x":40,"y":200,"width":220,"height":214},
 		{"id":"3c1a87b823582947","x":500,"y":-130,"width":220,"height":220,"type":"file","file":"private/タマトア.md"},
-		{"id":"67b7d269823e3a9b","x":500,"y":200,"width":220,"height":214,"type":"file","file":"private/カカモラ.md"}
+		{"id":"67b7d269823e3a9b","x":500,"y":200,"width":220,"height":214,"type":"file","file":"private/カカモラ.md"},
+		{"id":"030590c268384139","type":"file","file":"private/テ・フィティ.md","x":55,"y":-530,"width":220,"height":220},
+		{"id":"53d3171ffc0750a8","type":"file","file":"private/トゥイ.md","x":-765,"y":-540,"width":180,"height":180},
+		{"id":"b7af26d560802958","x":-765,"y":-820,"width":180,"height":180,"type":"file","file":"private/タラ.md"},
+		{"id":"2ddab93af510a59b","type":"file","file":"private/シーナ.md","x":-1020,"y":-530,"width":160,"height":160}
 	],
 	"edges":[
 		{"id":"43fcf17f8e5ef7ca","fromNode":"c3d923c4a41a020d","fromSide":"right","toNode":"d680f6e825498355","toSide":"left","toEnd":"none","label":"心を取り戻すため協力"},
-		{"id":"bab0d73627033e48","fromNode":"53d3171ffc0750a8","fromSide":"left","toNode":"2ddab93af510a59b","toSide":"right","toEnd":"none","label":"夫婦"},
-		{"id":"0db25feaaf1df536","fromNode":"53d3171ffc0750a8","fromSide":"bottom","toNode":"c3d923c4a41a020d","toSide":"top","label":"厳しい"},
-		{"id":"33a6564178b963ac","fromNode":"2ddab93af510a59b","fromSide":"bottom","toNode":"c3d923c4a41a020d","toSide":"top","label":"心配"},
 		{"id":"6ab160aa11a61a88","fromNode":"030590c268384139","fromSide":"right","toNode":"7b5333af4adc5411","toSide":"left","label":"心を失い闇落ち"},
 		{"id":"b7cae2792c795be4","fromNode":"d680f6e825498355","fromSide":"top","toNode":"030590c268384139","toSide":"bottom","label":"心を奪う"},
 		{"id":"aeac05b52653ec0a","fromNode":"d680f6e825498355","fromSide":"right","toNode":"3c1a87b823582947","toSide":"left","fromEnd":"arrow","label":"昔から対立"},
-		{"id":"c3f5c66fedf1a5b3","fromNode":"2bd0b502887a0dd8","fromSide":"left","toNode":"c3d923c4a41a020d","toSide":"bottom","label":"心を返す者として選ぶ"}
+		{"id":"c3f5c66fedf1a5b3","fromNode":"2bd0b502887a0dd8","fromSide":"left","toNode":"c3d923c4a41a020d","toSide":"bottom","label":"心を返す者として選ぶ"},
+		{"id":"ebe82651f6feb398","fromNode":"b7af26d560802958","fromSide":"bottom","toNode":"53d3171ffc0750a8","toSide":"top","toEnd":"none","label":"親子"},
+		{"id":"d3e87904ac5a36e5","fromNode":"53d3171ffc0750a8","fromSide":"bottom","toNode":"c3d923c4a41a020d","toSide":"top","label":"海へ出るな"},
+		{"id":"f46c53cc3f684049","fromNode":"b7af26d560802958","fromSide":"right","toNode":"c3d923c4a41a020d","toSide":"top","label":"自由に生きなさい"},
+		{"id":"9d7574206ed42d06","fromNode":"2ddab93af510a59b","fromSide":"right","toNode":"53d3171ffc0750a8","toSide":"left","toEnd":"none","label":"夫婦"}
 	]
 }
