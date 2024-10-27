@@ -2,14 +2,16 @@
 	"nodes":[
 		{"id":"d680f6e825498355","type":"file","file":"private/マウイ.md","x":40,"y":-160,"width":250,"height":240},
 		{"id":"c3d923c4a41a020d","type":"file","file":"private/モアナ.md","x":-520,"y":-160,"width":250,"height":240},
-		{"id":"2ddab93af510a59b","x":-720,"y":-580,"width":160,"height":160,"type":"file","file":"private/シーナ.md"},
+		{"id":"2ddab93af510a59b","type":"file","file":"private/シーナ.md","x":-720,"y":-580,"width":160,"height":160},
 		{"id":"53d3171ffc0750a8","type":"file","file":"private/トゥイ.md","x":-485,"y":-600,"width":180,"height":200},
-		{"id":"0ba32070b06e3c0b","x":-14,"y":-524,"width":250,"height":60,"type":"text","text":"テ・フィティ"}
+		{"id":"030590c268384139","type":"file","file":"private/テ・フィティ.md","x":40,"y":-560,"width":225,"height":240},
+		{"id":"7b5333af4adc5411","x":540,"y":-560,"width":240,"height":240,"type":"file","file":"private/テ・カァ.md"}
 	],
 	"edges":[
 		{"id":"43fcf17f8e5ef7ca","fromNode":"c3d923c4a41a020d","fromSide":"right","toNode":"d680f6e825498355","toSide":"left","toEnd":"none","label":"心を取り戻すため協力"},
 		{"id":"bab0d73627033e48","fromNode":"53d3171ffc0750a8","fromSide":"left","toNode":"2ddab93af510a59b","toSide":"right","toEnd":"none","label":"夫婦"},
 		{"id":"0db25feaaf1df536","fromNode":"53d3171ffc0750a8","fromSide":"bottom","toNode":"c3d923c4a41a020d","toSide":"top"},
-		{"id":"33a6564178b963ac","fromNode":"2ddab93af510a59b","fromSide":"bottom","toNode":"c3d923c4a41a020d","toSide":"top"}
+		{"id":"33a6564178b963ac","fromNode":"2ddab93af510a59b","fromSide":"bottom","toNode":"c3d923c4a41a020d","toSide":"top"},
+		{"id":"6ab160aa11a61a88","fromNode":"030590c268384139","fromSide":"right","toNode":"7b5333af4adc5411","toSide":"left","label":"心を失い闇落ち"}
 	]
 }
