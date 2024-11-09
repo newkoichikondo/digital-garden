@@ -21,7 +21,7 @@ Liquid Retina XDRディスプレイという高性能ディスプレイで、最
 ### 重い
 これは何を犠牲にするかという話ではあるが、やはり重い。一緒にMagic Keyboardも譲ってもらったが、本体と合わせるとMacBook Airより重い気がする。
 
-とりあえずMagic Keyboardは日本語配列なのが気に入らないので、メルカリに出品してESRのシンプルなケースで運用している。
+とりあえずMagic Keyboardは日本語配列なのが気に入らないので、メルカリにて売却しESRのシンプルなケースで運用している。
 
 ## アクセサリ
 - [Apple Pencil（第2世代）](https://amzn.to/3OAIMbC)
