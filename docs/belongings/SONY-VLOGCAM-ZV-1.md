@@ -30,4 +30,8 @@ LUMIX DC-FZ85D-Kは60倍、しかし1/2.3型センサーかつサイズが大き
 
 結局レストランや観光地などで誰かにカメラを渡して撮影してもらうときは、誰が撮ってもちゃんと記録としての写真が撮れるスマホが最強なのかもしれない。
 ## アクセサリー
-- 
+- [互換バッテリー - バッテリー博士](https://jp.mercari.com/shops/product/snYEqCkmdkKrs4JiEef2W7)
+- [ソニー ショットガンマイクロフォン ECM-B10](https://amzn.to/3UBdDbT)
+- [ProGrade Digital SDXC UHS-II V90 COBALT 128GB](https://amzn.to/3UxherB)
+- [Anker USB-C PowerExpand 2-in-1 SD 4.0 カードリーダー](https://amzn.to/3HPlydU)
+- [PeakDesign ピークデザイン カフ リストストラップ ブラック](https://amzn.to/3O0juTt)
