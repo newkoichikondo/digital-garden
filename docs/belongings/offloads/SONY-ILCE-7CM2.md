@@ -7,6 +7,10 @@
 - カラー: シルバー
 - レンズ: 本体のみ
 - 保障: 3年ワイド
+## 売却情報
+- 売却日:  年 月 日
+- 売却場所: メルカリ
+- 売却金額: ¥-
 
 ## 購入理由
 α7 IIIからの買い替え。
@@ -36,3 +40,5 @@
 - [ProGrade Digital SDXC UHS-II V90 COBALT 128GB](https://amzn.to/3UxherB)
 - [Anker USB-C PowerExpand 2-in-1 SD 4.0 カードリーダー](https://amzn.to/3HPlydU)
 - [Kenko 液晶保護フィルム](https://amzn.to/3SRzfzE)
+## 売却理由
+ミラーレス関連を一括処分することを決めたから。
