@@ -15,7 +15,7 @@
 ## サポートとお問い合わせ
 何かお困りのことがあれば、以下の連絡先からお問い合わせください。
 - ホームページ: https://koichikondo.com
-- メール: [Googleフォーム](https://forms.gle/M5kwbKQJ5SQz1bKF9)
+- 問い合わせフォーム: [Googleフォーム](https://forms.gle/M5kwbKQJ5SQz1bKF9)
 ## ダウンロード
 [App Storeでダウンロード](https://apps.apple.com/)  
 今すぐMinimal Dictionaryをダウンロードして、効率的に単語を調べましょう！

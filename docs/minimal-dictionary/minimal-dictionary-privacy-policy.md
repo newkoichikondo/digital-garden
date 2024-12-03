@@ -28,7 +28,7 @@ Minimal Dictionary（以下「本アプリ」）は、ユーザーのプライ�
 これらのサービスについての詳細は、それぞれのプライバシーポリシーをご確認ください。
 ## 7. お問い合わせ
 本プライバシーポリシーに関するご質問やご意見がある場合は、以下の連絡先までお問い合わせください。
-- **メール**: newkoichikondo@gmail.com
-- **ウェブサイト**: [https://koichikondo.com](https://koichikondo.com)
+- ホームページ: https://koichikondo.com
+- 問い合わせフォーム: [Googleフォーム](https://forms.gle/M5kwbKQJ5SQz1bKF9)
 ## 8. ポリシーの変更
 本プライバシーポリシーは予告なく変更される場合があります。変更があった場合は、本アプリ内またはウェブサイト上で通知します。
