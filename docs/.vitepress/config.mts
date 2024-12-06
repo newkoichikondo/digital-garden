@@ -94,5 +94,15 @@ export default defineConfig({
       gtag('config', 'G-SBHB4KZ47S');`
     ]
   ],
-})
+  vite: {
+    build: {
+      rollupOptions: {
+        input: {
+          appads: '/app-ads.txt'
+        }
+      }
+    }
+  }
+}
+)
 
