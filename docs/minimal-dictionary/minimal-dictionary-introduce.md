@@ -17,5 +17,5 @@
 - ホームページ: https://koichikondo.com
 - 問い合わせフォーム: [Googleフォーム](https://forms.gle/M5kwbKQJ5SQz1bKF9)
 ## ダウンロード
-[App Storeでダウンロード](https://apps.apple.com/)  
+[App Storeでダウンロード](https://apps.apple.com/jp/app/minimal-dictionary/id6738939116?l=jp-jp)  
 今すぐMinimal Dictionaryをダウンロードして、効率的に単語を調べましょう！
