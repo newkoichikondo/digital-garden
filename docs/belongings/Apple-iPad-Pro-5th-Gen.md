@@ -25,5 +25,5 @@ Liquid Retina XDRディスプレイという高性能ディスプレイで、最
 
 ## アクセサリ
 - [Apple Pencil（第2世代）](https://amzn.to/3OAIMbC)
-- [Apple Magic Keyboard](https://amzn.to/3SURfsA)（売却予定）
+- [Apple Magic Keyboard](https://amzn.to/3SURfsA)（売却済）
 - [ESR iPad Pro 12.9 ケース](https://amzn.to/3OEIAbc)
