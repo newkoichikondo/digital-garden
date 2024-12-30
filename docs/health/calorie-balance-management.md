@@ -2,7 +2,7 @@
 大前提として脂肪を減らそうと思うと、1kgあたり約7200kcalのエネルギー消費が必要になる。
 
 ## 消費カロリー
-[こちら](https://keisan.casio.jp/exec/system/1161228736)のサイトで計算した結果、自分の基礎代謝量は1,652kcal/dayだった。あとはこれに[Apple Watch Ultra](../belongings/Apple-Watch-Ultra-1.md)のアクティビティで表示されている消費カロリーを足せば1日の総消費カロリーが計算できる。
+[こちら](https://keisan.casio.jp/exec/system/1161228736)のサイトで計算した結果、自分の基礎代謝量は1,652kcal/dayだった。あとはこれに[Apple Watch Ultra](../belongings/apple-products/Watch-Ultra-1.md)のアクティビティで表示されている消費カロリーを足せば1日の総消費カロリーが計算できる。
 
 ## 摂取カロリー
 摂取カロリーを計算するためには[あすけん](https://www.asken.jp/)や[MyFitnessPal](https://www.myfitnesspal.com/ja)を使うのが楽だ。量の決まっている市販品であればバーコードを読み込めばいいが、真剣なダイエッターは自炊がメインになると思うので、[クッキングスケール](https://amzn.to/3UCNwkN)を用意するのが必須だ。
