@@ -3,8 +3,8 @@ import { generateSidebar } from 'vitepress-sidebar';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Koichi's Digital Garden",
-  description: "個人の学び、思考、知識、アイデアを非線形かつ進化的な形式で整理し、共有するためのウェブスペース",
+  title: "Koichi Kondo",
+  description: "個人の学び、思考、知識、アイデアを共有するためのウェブスペース",
   lang: "jp-JP",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
