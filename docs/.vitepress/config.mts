@@ -131,6 +131,15 @@ export default defineConfig({
       });
     }
 
+    // atom:link を追加
+    feed.options.feedLinks = {
+      rss2: `${hostname}/feed.rss`,
+      atom: `${hostname}/feed.atom`,
+    };
+
+    // RSSフィードに <image> タグを追加するための設定
+    feed.options.image = `${hostname}/favicon.ico`;
+
     // RSSファイルを生成
     writeFileSync(path.join(config.outDir, 'feed.rss'), feed.rss2());
   },
