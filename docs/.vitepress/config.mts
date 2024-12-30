@@ -45,7 +45,27 @@ export default defineConfig({
     docFooter: {
       prev: '←',
       next: '→'
-    }
+    },
+    search: {
+      provider: 'local',
+      options: {
+        translations: {
+          button: {
+            buttonText: '検索',
+            buttonAriaLabel: 'サイト内検索'
+          },
+          modal: {
+            noResultsText: '一致する結果が見つかりません',
+            resetButtonTitle: '検索をリセット',
+            footer: {
+              selectText: '選択',
+              navigateText: 'ナビゲート',
+              closeText: '閉じる'
+            }
+          }
+        }
+      }
+    },
   },
   lastUpdated: true,
   cleanUrls: true,
