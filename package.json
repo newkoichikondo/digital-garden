@@ -5,7 +5,7 @@
     "feed": "^4.2.2",
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.17",
-    "vitepress": "^1.0.0-rc.41",
+    "vitepress": "^1.5.0",
     "vitepress-sidebar": "^1.18.6"
   },
   "scripts": {
@@ -15,5 +15,6 @@
   },
   "dependencies": {
     "glob": "^10.3.10"
-  }
+  },
+  "type": "module"
 }
