@@ -123,7 +123,7 @@ export default defineConfig({
       id: hostname,
       link: hostname,
       language: 'ja',
-      favicon: `${hostname}/favicon.ico`,
+      favicon: `${hostname}/android-chrome-512x512.png`,
       copyright: `© ${new Date().getFullYear()} Koichi Kondo`,
     });
 
@@ -162,10 +162,18 @@ export default defineConfig({
       atom: `${hostname}/feed.atom`,
     };
 
+    // **atom:link with rel="self"を明示的に追加**
+    feed.addCategory('General'); // 必要ならカテゴリを追加
+    const atomLink = `<atom:link href="${hostname}/feed.rss" rel="self" type="application/rss+xml" />`;
+
     // RSSフィードに <image> タグを追加するための設定
     feed.options.image = `${hostname}/favicon.ico`;
 
     // RSSファイルを生成
-    writeFileSync(path.join(config.outDir, 'feed.rss'), feed.rss2());
+    const rssContent = feed.rss2();
+    const updatedRssContent = rssContent.replace(
+      '</channel>',
+      `${atomLink}\n</channel>`
+    );
   },
 });
