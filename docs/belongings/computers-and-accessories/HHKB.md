@@ -16,7 +16,7 @@
 - 売却場所: メルカリ
 - 売却金額: ¥20,680
 ## 購入理由
-デスクの上を整理したいと思っていたところに[KINESIS Gaming Freestyle Edge](./KINESIS-Gaming-Freestyle-Edge)が[DELLのモニター](.DELL-U2723QE)のKVM機能の不調が重なりワイヤレスのキーボードに変更。
+デスクの上を整理したいと思っていたところに[KINESIS Gaming Freestyle Edge](./KINESIS-Gaming-Freestyle-Edge)が[DELLのモニター](./DELL-U2723QE)のKVM機能の不調が重なりワイヤレスのキーボードに変更。
 
 かなり癖がありそうだったが、意外と使いこなせている。
 
