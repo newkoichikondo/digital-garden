@@ -99,7 +99,21 @@ export default defineConfig({
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       gtag('config', 'G-SBHB4KZ47S');`
-    ]
+    ],
+    // ICO形式のファビコン
+    ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+
+    // PNG形式のApple Touch Icon
+    ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
+
+    // PNG形式のファビコン（32x32）
+    ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32x32.png' }],
+
+    // PNG形式のファビコン（16x16）
+    ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' }],
+
+    // マニフェストファイル（必要に応じて）
+    ['link', { rel: 'manifest', href: '/site.webmanifest' }],
   ],
   vite: {
     build: {
