@@ -81,30 +81,11 @@ export default defineConfig({
       });
     }
 
-    // atom:link with rel="self" を明示的に追加
-    feed.options.feedLinks = {
-      rss2: `${hostname}/feed.rss`,
-      atom: `${hostname}/feed.atom`,
-    };
-
     // RSSフィードに <image> タグを追加するための設定
     feed.options.image = `${hostname}/android-chrome-512x512.png`;
 
-    // RSSファイルを生成し、xmlns:atom を追加
-    let rssContent = feed.rss2();
-    rssContent = rssContent.replace(
-      '<rss version="2.0"',
-      '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"'
-    );
 
-    // atom:link を追加
-    const atomLink = `<atom:link href="${hostname}/feed.rss" rel="self" type="application/rss+xml" />`;
-    rssContent = rssContent.replace(
-      '</channel>',
-      `${atomLink}\n</channel>`
-    );
-
-    // 修正したRSSファイルを保存
-    writeFileSync(path.join(config.outDir, 'feed.rss'), rssContent);
+    // RSSフィードを出力
+    writeFileSync(path.join(config.outDir, 'feed.rss'), feed.rss2());
   },
 });
