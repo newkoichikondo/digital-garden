@@ -1,5 +1,8 @@
-import { defineConfig } from 'vitepress';
+import { defineConfig, createContentLoader, type SiteConfig } from 'vitepress';
 import { generateSidebar } from 'vitepress-sidebar';
+import { Feed } from 'feed';
+import path from 'path';
+import { writeFileSync } from 'fs';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -7,49 +10,20 @@ export default defineConfig({
   description: "個人の学び、思考、知識、アイデアを共有するためのウェブスペース",
   lang: "jp-JP",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Privacy Policy', link: '/privacy-policy' },
     ],
 
     sidebar: generateSidebar({
-      /*
-       * For detailed instructions, see the links below:
-       * https://github.com/jooy2/vitepress-sidebar#options
-       */
       documentRootPath: '/docs',
-      // scanStartPath: null,
-      // resolvePath: null,
       useTitleFromFileHeading: true,
-      // useTitleFromFrontmatter: true,
       useFolderTitleFromIndexFile: true,
       useFolderLinkFromIndexFile: false,
-      // hyphenToSpace: true,
-      // underscoreToSpace: true,
-      // capitalizeFirst: true,
-      // capitalizeEachWords: false,
       collapsed: true,
-      // collapseDepth: 2,
       sortMenusByName: true,
-      // sortMenusByFrontmatterOrder: false,
-      // sortMenusOrderByDescending: false,
-      // sortMenusOrderNumerically: false,
-      // frontmatterOrderDefaultValue: 0,
-      // manualSortFileNameByPriority: ['first.md', 'second', 'third.md'],
       excludeFiles: ['privacy-policy.md'],
       excludeFolders: ['private'],
-      // includeDotFiles: false,
-      // includeRootIndexFile: false,
-      // includeFolderIndexFile: false,
-      // includeEmptyFolder: false,
-      // rootGroupText: 'Contents',
-      // rootGroupLink: 'https://github.com/jooy2',
-      // rootGroupCollapsed: false,
-      // convertSameNameSubFileToGroupIndexPage: false,
-      // folderLinkNotIncludesFileName: false,
-      // keepMarkdownSyntaxFromTitle: false,
-      // debugPrint: false,
     }),
 
     socialLinks: [
@@ -64,10 +38,9 @@ export default defineConfig({
       label: '目次'
     },
     lastUpdated: {
-      // text: '最終更新',
       formatOptions: {
-        dateStyle: 'medium', // 日付のスタイル
-        timeStyle: 'short', // 時刻のスタイル
+        dateStyle: 'medium',
+        timeStyle: 'short',
       }
     },
     docFooter: {
@@ -100,19 +73,10 @@ export default defineConfig({
       gtag('js', new Date());
       gtag('config', 'G-SBHB4KZ47S');`
     ],
-    // ICO形式のファビコン
     ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
-
-    // PNG形式のApple Touch Icon
     ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
-
-    // PNG形式のファビコン（32x32）
     ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32x32.png' }],
-
-    // PNG形式のファビコン（16x16）
     ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' }],
-
-    // マニフェストファイル（必要に応じて）
     ['link', { rel: 'manifest', href: '/site.webmanifest' }],
   ],
   vite: {
@@ -123,7 +87,50 @@ export default defineConfig({
         }
       }
     }
-  }
-}
-)
+  },
 
+  buildEnd: async (config: SiteConfig) => {
+    const hostname = 'https://koichikondo.com'; // サイトのURL
+    const feed = new Feed({
+      title: 'Koichi Kondo',
+      description: '個人の学び、思考、知識、アイデアを共有するためのウェブスペース',
+      id: hostname,
+      link: hostname,
+      language: 'ja',
+      favicon: `${hostname}/favicon.ico`,
+      copyright: `© ${new Date().getFullYear()} Koichi Kondo`,
+    });
+
+    // Markdownファイルの内容を取得
+    const posts = await createContentLoader('**/*.md', {
+      excerpt: true,
+      render: true,
+    }).load();
+
+    // 日付順にソート（新しい順）
+    posts.sort(
+      (a, b) =>
+        +new Date(b.frontmatter.date as string) -
+        +new Date(a.frontmatter.date as string)
+    );
+
+    // 各投稿をRSSフィードに追加
+    for (const post of posts) {
+      const { url, excerpt, frontmatter, html } = post;
+      if (!frontmatter.title || !frontmatter.date) {
+        continue; // タイトルまたは日付がない場合はスキップ
+      }
+      feed.addItem({
+        title: frontmatter.title,
+        id: `${hostname}${url}`,
+        link: `${hostname}${url}`,
+        description: frontmatter.description || excerpt || '',
+        content: html,
+        date: new Date(frontmatter.date),
+      });
+    }
+
+    // RSSファイルを生成
+    writeFileSync(path.join(config.outDir, 'feed.rss'), feed.rss2());
+  },
+});
