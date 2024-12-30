@@ -82,6 +82,13 @@ export default defineConfig({
   },
   head: [
     [
+      'link',
+      {
+        rel: 'stylesheet',
+        href: 'https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap'
+      }
+    ],
+    [
       'script',
       { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-SBHB4KZ47S' }
     ],

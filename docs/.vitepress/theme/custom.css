@@ -1,0 +1,11 @@
+/* .vitepress/theme/custom.css */
+
+:root {
+    --vp-font-family-base: 'Noto Sans JP', ui-sans-serif, system-ui, sans-serif,
+        'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}
+
+/* 全体のデフォルトフォントを変えたい場合 */
+html {
+    font-family: var(--vp-font-family-base);
+}
