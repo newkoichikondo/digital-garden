@@ -23,7 +23,6 @@ export default defineConfig({
       collapsed: true,
       sortMenusByName: true,
       excludeFiles: ['privacy-policy.md'],
-      excludeFolders: ['private'],
     }),
 
     socialLinks: [
@@ -74,12 +73,12 @@ export default defineConfig({
       gtag('config', 'G-SBHB4KZ47S');`
     ],
     ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
-    ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }],
-    ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/favicon-32x32.png' }],
-    ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' }],
+    ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/images/apple-touch-icon.png' }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/images/favicon-32x32.png' }],
+    ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/images/favicon-16x16.png' }],
     ['link', { rel: 'manifest', href: '/site.webmanifest' }],
     ['link', { rel: 'alternate', type: 'application/rss+xml', title: 'RSS Feed', href: '/feed.rss' }],
-    ['link', { rel: 'stylesheet', href: '/style.css' }], // 必要に応じて書き換え
+    ['link', { rel: 'stylesheet', href: '/custom.css' }], // 必要に応じて書き換え
   ],
   transformHead: ({ pageData }) => {
     const head: HeadConfig[] = [];
@@ -129,7 +128,7 @@ export default defineConfig({
       id: hostname,
       link: hostname,
       language: 'ja',
-      favicon: `${hostname}/android-chrome-512x512.png`,
+      favicon: `${hostname}/images/android-chrome-512x512.png`,
       copyright: `© ${new Date().getFullYear()} Koichi Kondo`,
     });
 
@@ -164,7 +163,7 @@ export default defineConfig({
 
 
     // RSSフィードに <image> タグを追加するための設定
-    feed.options.image = `${hostname}/android-chrome-512x512.png`; // またはロゴ画像のURL
+    feed.options.image = `${hostname}/images/android-chrome-512x512.png`; // またはロゴ画像のURL
 
     // RSSフィードを出力
     writeFileSync(path.join(config.outDir, 'feed.rss'), feed.rss2());
