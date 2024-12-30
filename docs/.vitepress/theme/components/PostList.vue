@@ -1,9 +1,11 @@
 <template>
     <div class="post-list">
         <ul>
-            <li v-for="post in posts" :key="post.url" class="post-item">
-                <a :href="post.url" class="post-title">{{ post.frontmatter.title }}</a> - <span class="post-date">{{
-                    formattedDate(post.frontmatter.date) }}</span>
+            <li v-for="post in limitedPosts" :key="post.url" class="post-item">
+                <span class="post-date">{{
+                    formattedDate(post.frontmatter.date) }}</span><br />
+                <a :href="post.url" class="post-title">{{
+                    post.frontmatter.title }}</a>
             </li>
         </ul>
     </div>
@@ -20,15 +22,19 @@ const formattedDate = (date) => {
         day: 'numeric'
     });
 };
+
+// 新着記事を10件に制限
+const limitedPosts = posts.slice(0, 10);
 </script>
 
 <style scoped>
-.post-list {
-    padding: 1rem;
+.post-list ul {
+    padding-left: 0;
 }
 
 .post-item {
     margin-bottom: 1rem;
+    list-style-type: none;
 }
 
 .post-title {
