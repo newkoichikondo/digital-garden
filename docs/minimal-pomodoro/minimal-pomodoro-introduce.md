@@ -1,3 +1,7 @@
+---
+title: Minimal Pomodoro - ミニマルポモドーロ
+description: シンプルで操作しやすいポモドーロタイマーアプリ。
+---
 # Minimal Pomodoro - ミニマルポモドーロ
 シンプルで操作しやすいポモドーロタイマーです。
 ## 主な機能

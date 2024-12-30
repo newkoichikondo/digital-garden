@@ -1,4 +1,4 @@
-# Koichi's Digital Garden
+# Koichi Kondo
 
 ## このサイトについて
 「Koichi's Digital Garden」は「近藤宏一」個人の[デジタルガーデン](notes/digital-garden)です。

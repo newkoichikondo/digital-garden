@@ -1,1 +1,1 @@
-# Minimal Pomodoro
+# ミニマルポモドーロ

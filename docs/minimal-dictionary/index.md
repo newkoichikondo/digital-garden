@@ -1,1 +1,1 @@
-# Minimal Dictionary
+# ミニマル辞書
