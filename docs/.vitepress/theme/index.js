@@ -7,4 +7,7 @@ import DefaultTheme from 'vitepress/theme-without-fonts';
 import './custom.css';
 import './tailwind.css';
 
-export default DefaultTheme;
+export default {
+    ...DefaultTheme,
+    Layout: PostLayout,
+};
