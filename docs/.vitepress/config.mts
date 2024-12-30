@@ -175,5 +175,7 @@ export default defineConfig({
       '</channel>',
       `${atomLink}\n</channel>`
     );
+
+    writeFileSync(path.join(config.outDir, 'feed.rss'), updatedRssContent);
   },
 });
