@@ -1,13 +1,16 @@
-// .vitepress/theme/index.js
-
-// 1) フォントを読み込まないバージョンのデフォルトテーマをインポート
 import DefaultTheme from 'vitepress/theme-without-fonts';
+import PostLayout from './components/PostLayout.vue';
+import { h } from 'vue';
 
-// 2) カスタムCSSを読み込む
+// カスタムCSSの読み込み
 import './custom.css';
 import './tailwind.css';
 
 export default {
-    ...DefaultTheme,
-    Layout: PostLayout,
+    extends: DefaultTheme,
+    Layout: () => {
+        return h(DefaultTheme.Layout, null, {
+            'doc-before': () => h(PostLayout), // 記事の前にヘッダーを表示
+        });
+    },
 };
