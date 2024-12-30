@@ -90,14 +90,21 @@ export default defineConfig({
     // RSSフィードに <image> タグを追加するための設定
     feed.options.image = `${hostname}/android-chrome-512x512.png`;
 
-    // RSSファイルを生成し、atom:link を追加
-    const rssContent = feed.rss2();
+    // RSSファイルを生成し、xmlns:atom を追加
+    let rssContent = feed.rss2();
+    rssContent = rssContent.replace(
+      '<rss version="2.0"',
+      '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"'
+    );
+
+    // atom:link を追加
     const atomLink = `<atom:link href="${hostname}/feed.rss" rel="self" type="application/rss+xml" />`;
-    const updatedRssContent = rssContent.replace(
+    rssContent = rssContent.replace(
       '</channel>',
       `${atomLink}\n</channel>`
     );
 
-    writeFileSync(path.join(config.outDir, 'feed.rss'), updatedRssContent);
+    // 修正したRSSファイルを保存
+    writeFileSync(path.join(config.outDir, 'feed.rss'), rssContent);
   },
 });
