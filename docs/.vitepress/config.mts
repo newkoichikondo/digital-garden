@@ -32,7 +32,7 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/newkoichikondo' },
     ],
     footer: {
-      copyright: '© koichikondo.com'
+      copyright: `© ${new Date().getFullYear()} Koichi Kondo`,
     },
     outline: {
       label: '目次'
@@ -79,6 +79,7 @@ export default defineConfig({
     ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' }],
     ['link', { rel: 'manifest', href: '/site.webmanifest' }],
     ['link', { rel: 'alternate', type: 'application/rss+xml', title: 'RSS Feed', href: '/feed.rss' }],
+    ['link', { rel: 'stylesheet', href: '/style.css' }], // 必要に応じて書き換え
   ],
   transformHead: ({ pageData }) => {
     const head: HeadConfig[] = [];
@@ -112,7 +113,12 @@ export default defineConfig({
           appads: '/app-ads.txt'
         }
       }
-    }
+    },
+    css: {
+      preprocessorOptions: {
+        // 必要に応じて設定を追加可能
+      },
+    },
   },
 
   buildEnd: async (config: SiteConfig) => {
