@@ -1,4 +1,4 @@
-import { defineConfig, createContentLoader, type SiteConfig } from 'vitepress';
+import { defineConfig, createContentLoader, type SiteConfig, HeadConfig } from 'vitepress';
 import { generateSidebar } from 'vitepress-sidebar';
 import { Feed } from 'feed';
 import path from 'path';
@@ -80,6 +80,31 @@ export default defineConfig({
     ['link', { rel: 'manifest', href: '/site.webmanifest' }],
     ['link', { rel: 'alternate', type: 'application/rss+xml', title: 'RSS Feed', href: '/feed.rss' }],
   ],
+  transformHead: ({ pageData }) => {
+    const head: HeadConfig[] = [];
+
+    if (pageData.frontmatter.title) {
+      head.push(['meta', { property: 'og:title', content: pageData.frontmatter.title }]);
+    }
+
+    if (pageData.frontmatter.description) {
+      head.push(['meta', { property: 'og:description', content: pageData.frontmatter.description }]);
+    }
+
+    if (pageData.frontmatter.url) {
+      head.push(['meta', { property: 'og:url', content: pageData.frontmatter.url }]);
+    }
+
+    if (pageData.frontmatter.image) {
+      head.push(['meta', { property: 'og:image', content: pageData.frontmatter.image }]);
+    }
+
+    if (pageData.frontmatter.type) {
+      head.push(['meta', { property: 'og:type', content: pageData.frontmatter.type }]);
+    }
+
+    return head;
+  },
   vite: {
     build: {
       rollupOptions: {

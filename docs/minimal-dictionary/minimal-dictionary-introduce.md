@@ -1,3 +1,9 @@
+---
+title: Minimal Dictionary - ミニマル辞書
+description: シンプルで効率的な辞書アプリ。語学学習者や学生に最適な機能を搭載！
+url: https://koichikondo.com/minimal-dictionary
+type: article
+---
 # Minimal Dictionary - ミニマル辞書
 シンプルで効率的な辞書アプリです。言葉をすばやく検索でき、語学学習者や学生、ライターに最適です。
 ## 主な機能
