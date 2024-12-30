@@ -41,35 +41,32 @@ export default defineConfig({
     return head;
   },
   buildEnd: async (config: SiteConfig) => {
-    const hostname = 'https://koichikondo.com'; // サイトのURL
+    const hostname = 'https://koichikondo.com';
     const feed = new Feed({
       title: 'Koichi Kondo',
       description: '個人の学び、思考、知識、アイデアを共有するためのウェブスペース',
       id: hostname,
       link: hostname,
       language: 'ja',
-      favicon: `${hostname}/android-chrome-512x512.png`,
+      favicon: `${hostname}/android-chrome-512x512.png`, // ファビコンのURLを指定
       copyright: `© ${new Date().getFullYear()} Koichi Kondo`,
     });
 
-    // Markdownファイルの内容を取得
     const posts = await createContentLoader('**/*.md', {
       excerpt: true,
       render: true,
     }).load();
 
-    // 日付順にソート（新しい順）
     posts.sort(
       (a, b) =>
         +new Date(b.frontmatter.date as string) -
         +new Date(a.frontmatter.date as string)
     );
 
-    // 各投稿をRSSフィードに追加
     for (const post of posts) {
       const { url, excerpt, frontmatter, html } = post;
       if (!frontmatter.title || !frontmatter.date) {
-        continue; // タイトルまたは日付がない場合はスキップ
+        continue;
       }
       feed.addItem({
         title: frontmatter.title,
@@ -82,8 +79,7 @@ export default defineConfig({
     }
 
     // RSSフィードに <image> タグを追加するための設定
-    feed.options.image = `${hostname}/android-chrome-512x512.png`;
-
+    feed.options.image = `${hostname}/android-chrome-512x512.png`; // またはロゴ画像のURL
 
     // RSSフィードを出力
     writeFileSync(path.join(config.outDir, 'feed.rss'), feed.rss2());
