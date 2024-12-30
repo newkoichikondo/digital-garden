@@ -31,7 +31,7 @@
 - 鶏胸肉そぼろ（50g）
 - 味噌汁（インスタント1袋、乾燥わかめ5g）
 ### 昼食（14〜15時頃）
-- プロテインシェイク（メニューは[T-fal-Blender](../belongings/kitchenware/T-fal-Blender.md)の記事で紹介）
+- プロテインシェイク（メニューは[T-fal-Blender](../belongings/kitchenware/T-fal-Blender)の記事で紹介）
 ### 夕食（17~18時頃）
 - 冬
 	- 旬の野菜鍋（豆腐や糸こんにゃく入）
