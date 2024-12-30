@@ -17,7 +17,6 @@
 export default {
     computed: {
         formattedDate() {
-            // 日付を日本語形式にフォーマット
             return new Date(this.$frontmatter.date).toLocaleDateString('ja-JP', {
                 year: 'numeric',
                 month: 'long',
