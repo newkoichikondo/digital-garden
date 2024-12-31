@@ -1,4 +1,4 @@
-# BELKIN BoostCharge Pro
+# BELKIN BoostCharge Pro <Badge type="info" text="売却済" />
 ## 購入情報
 - 購入リンク: <https://amzn.to/3SUCYMP>
 - 購入日: 2022年12月5日
