@@ -99,7 +99,7 @@ export default defineConfig({
     ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/images/favicon-16x16.png' }],
     ['link', { rel: 'manifest', href: '/site.webmanifest' }],
     ['link', { rel: 'alternate', type: 'application/rss+xml', title: 'RSS Feed', href: '/feed.rss' }],
-
+    ['link', { rel: 'stylesheet', href: '/custom.css' }], // 必要に応じて書き換え
   ],
   transformHead: ({ pageData }) => {
     const head: HeadConfig[] = [];
