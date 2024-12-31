@@ -5,7 +5,6 @@
     --vp-c-text-dark-1: theme(colors.white / 95%);
     --vp-c-text-dark-2: theme(colors.white / 50%);
     --vp-c-text-dark-3: theme(colors.white / 50%);
-    --vp-sidebar-bg-color: theme(colors.transparent);
     --vp-font-family-base: 'Noto Sans JP', ui-sans-serif, system-ui, sans-serif,
         'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
     --vp-nav-bg-color: rgb(255, 255, 255); /* 完全不透明な白色に変更 */
