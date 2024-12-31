@@ -11,7 +11,7 @@ title: "TOEICの受験歴と勉強法"
 |2015年3月15日|345点|215点|560点|
 |2017年3月12日|470点|340点|810点|
 
-![TOEICスコア](../../public/images/toiec_score_koichi.jpeg)
+![TOEICスコア](/public/images/toiec_score_koichi.jpeg)
 
 この記事では自分がTOEICで810点を取るまでの過程をシェアしようと思う。似たような境遇の人は少ないとは思うが、これから受験する人やスコアアップを目指している人の参考になれば幸いだ。
 
@@ -30,4 +30,10 @@ title: "TOEICの受験歴と勉強法"
 
 語彙力を増やすために学生がよくやっている単語帳などの購入も検討したが、いろいろ調べているうちにスキマ時間でもスマホで手軽に単語学習ができる「iKnow!」というアプリを使うことにした。
 
-[![iKnow!](../../public/images/iKnow!.png)](https://iknow.jp/referrals/40worojewmjj5b80ecrjhiatxb5mzlv8/signup)
+[![iKnow!](/public/images/iKnow!.png)](https://iknow.jp/referrals/40worojewmjj5b80ecrjhiatxb5mzlv8/signup)
+
+::: info 紹介コード
+こちらから12ヶ月プランを購入すると3ヶ月無料ボーナスが進呈されるようです。
+
+自分はLifetime
+:::
