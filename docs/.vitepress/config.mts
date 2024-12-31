@@ -21,7 +21,7 @@ export default defineConfig({
       useFolderTitleFromIndexFile: true,
       useFolderLinkFromIndexFile: false,
       collapsed: true,
-      sortMenusByName: true,
+      sortMenusByName: false,
       sortMenusByFrontmatterOrder: true,
       excludeFiles: ['privacy-policy.md'],
     }),
