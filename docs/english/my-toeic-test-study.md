@@ -36,4 +36,6 @@ title: "TOEICの受験歴と勉強法"
 上記の画像、もしくは[こちらのリンク](https://iknow.jp/referrals/40worojewmjj5b80ecrjhiatxb5mzlv8/signup)から12ヶ月プランを購入すると3ヶ月無料ボーナスが進呈されるようです。
 
 もう販売されていませんが、自分はLifetimeプランを購入しているので特にメリットはありません😢
+
+![Lifetimeプラン](/public/images/iknow_lifetime_plan.jpg)
 :::
