@@ -39,3 +39,5 @@ title: "TOEICの受験歴と勉強法"
 
 <img src="/public/images/iknow_lifetime_plan.jpg" width="300">
 :::
+
+このiKnow!はWebブラウザ・iOSアプリとどちらも直感的に使えるので、
