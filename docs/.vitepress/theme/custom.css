@@ -8,7 +8,7 @@
     --vp-sidebar-bg-color: theme(colors.transparent);
     --vp-font-family-base: 'Noto Sans JP', ui-sans-serif, system-ui, sans-serif,
         'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
-    --vp-nav-bg-color: rgba(255, 255, 255, 0.5);
+    --vp-nav-bg-color: rgb(255, 255, 255); /* 完全不透明な白色に変更 */
 }
 
 /* 全体のデフォルトフォントを変えたい場合 */
@@ -22,9 +22,9 @@ html {
 
 /* Dark theme */
 .dark {
-    --vp-c-bg: #1111111FF;
+    --vp-c-bg: #111111FF;
     --vp-code-block-bg: #111111FF;
-    --vp-nav-bg-color: rgba(17, 17, 17, 0.5);
+    --vp-nav-bg-color: rgb(17, 17, 17); /* 完全不透明な黒色に変更 */
 }
 
 .dark ::selection {
