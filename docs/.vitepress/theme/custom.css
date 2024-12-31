@@ -8,7 +8,6 @@
     --vp-sidebar-bg-color: theme(colors.transparent);
     --vp-font-family-base: 'Noto Sans JP', ui-sans-serif, system-ui, sans-serif,
         'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
-    --vp-nav-bg-color: rgba(255, 255, 255, 0.5);
 }
 
 /* 全体のデフォルトフォントを変えたい場合 */
@@ -20,7 +19,7 @@ html {
     @apply backdrop-blur-sm;
 }
 
-/* Dark theme */
+/* Dark theme 
 .dark {
     --vp-c-bg: #151515FF;
     --vp-code-block-bg: #151515FF;
@@ -66,6 +65,8 @@ html:not(.dark) .VPSidebar {
     @apply w-full;
     @apply h-full;
 }
+
+*/
 
 .VPNavBar .divider-line {
     @apply bg-[var(--vp-c-divider)] !important;
