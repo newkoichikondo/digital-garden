@@ -37,5 +37,5 @@ title: "TOEICの受験歴と勉強法"
 
 もう販売されていませんが、自分はLifetimeプランを購入しているので特にメリットはありません😢
 
-![Lifetimeプラン](/public/images/iknow_lifetime_plan.jpg)
+![Lifetimeプラン](/public/images/iknow_lifetime_plan.jpeg)
 :::
