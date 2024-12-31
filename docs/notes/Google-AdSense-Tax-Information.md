@@ -2,7 +2,7 @@
 title: "Google AdSenseの税務情報への対応（解決済み）"
 date: 2024-2-29
 ---
-# {{ $frontmatter.title }}
+# Google AdSenseの税務情報への対応（解決済み）
 ## この記事が役に立ったら
 ↓是非こちらからコーヒー1杯でも奢ってください↓
 
