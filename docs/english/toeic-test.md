@@ -6,4 +6,4 @@
 |2015年3月15日|345点|215点|560点|
 |2017年3月12日|470点|340点|810点|
 
-![TOEICスコア](public/images/toiec_score_koichi.jpeg)
+![TOEICスコア](/public/images/toiec_score_koichi.jpeg)
