@@ -5,6 +5,7 @@ keywords: ["TOEIC", "TOEIC勉強法", "TOEICスコアアップ", "TOEICリスニ
 date: 2025-01-01
 schemaType: "EducationalOccupationalProgram"
 ---
+<script type="application/ld+json"> { "@context": "https://schema.org", "@type": "BlogPosting", "headline": "TOEIC受験歴と勉強法｜560点から810点にスコアアップした方法と教材", "description": "TOEICで560点から810点へ！効果的な勉強法とおすすめ教材を紹介。", "author": { "@type": "Person", "name": "Koichi" }, "datePublished": "2025-01-01", "mainEntityOfPage": { "@type": "WebPage", "@id": "https://koichikondo.com/english/my-toeic-test-study" } } </script>
 
 # TOEIC受験歴と勉強法｜560点から810点にスコアアップした方法と教材
 <TOC />
