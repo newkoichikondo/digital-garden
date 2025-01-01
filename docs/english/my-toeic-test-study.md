@@ -57,3 +57,4 @@ title: "TOEICの受験歴と勉強法"
 TOEICのコースは下記の画像のように470点、600点、800点、900点とそれぞれ個人の目標に合わせたものが選べるのがとても良い。
 
 ![iKnow!のTOEICのコース](/public/images/iknow_toeic_course.jpeg)
+## TOEIC(R)テスト 中学英文法で600点！
