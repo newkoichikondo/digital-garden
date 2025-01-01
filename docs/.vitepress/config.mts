@@ -124,6 +124,28 @@ export default defineConfig({
       head.push(['meta', { property: 'og:type', content: pageData.frontmatter.type }]);
     }
 
+    // JSON-LD スキーマの追加
+    const schema = {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": pageData.frontmatter.title || "",
+      "description": pageData.frontmatter.description || "",
+      "author": {
+        "@type": "Person",
+        "name": "サイト運営者名"
+      },
+      "datePublished": pageData.frontmatter.date || "",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": `https://example.com${pageData.relativePath.replace('.md', '.html')}`
+      }
+    };
+    head.push([
+      'script',
+      { type: 'application/ld+json' },
+      JSON.stringify(schema)
+    ]);
+
     return head;
   },
   vite: {
