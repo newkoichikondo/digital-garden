@@ -125,21 +125,27 @@ export default defineConfig({
     }
 
     // JSON-LD スキーマの追加
-    const schema = {
+    const schema: Record<string, any> = {
       "@context": "https://schema.org",
       "@type": "BlogPosting",
       "headline": pageData.frontmatter.title || "",
       "description": pageData.frontmatter.description || "",
       "author": {
         "@type": "Person",
-        "name": "Koichi Kondo"
+        "name": "Koichi Kondo",
+        "url": "https://koichikondo.com"
       },
       "datePublished": pageData.frontmatter.date || "",
       "mainEntityOfPage": {
         "@type": "WebPage",
         "@id": `https://koichikondo.com${pageData.relativePath.replace('.md', '.html')}`
-      }
+      },
+      // デフォルト画像を設定
+      image: pageData.frontmatter.image
+        ? `https://koichikondo.com${pageData.frontmatter.image}`
+        : "https://koichikondo.com/images/android-chrome-512x512.png",
     };
+
     head.push([
       'script',
       { type: 'application/ld+json' },
