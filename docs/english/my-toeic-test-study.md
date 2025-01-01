@@ -58,5 +58,5 @@ TOEICのコースは下記の画像のように470点、600点、800点、900点
 
 ![iKnow!のTOEICのコース](/public/images/iknow_toeic_course.jpeg)
 ## TOEIC(R)テスト 中学英文法で600点！
-[<img src="/public/image/toeic_600_book.jpg" width="300">](https://amzn.to/3DPN1xi)
+[<img src="/public/images/toeic_600_book.jpg" width="300">](https://amzn.to/3DPN1xi)
 iKnow!を使い始めた理由と同じく、リーディングの得点が悪かったことを対策するために購入した。どうやってこの本を選んだのかは忘れてしまったが、とりあえず560点という得点を600点以上に押し上げたかったのだと思う。
