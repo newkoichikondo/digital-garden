@@ -132,12 +132,12 @@ export default defineConfig({
       "description": pageData.frontmatter.description || "",
       "author": {
         "@type": "Person",
-        "name": "サイト運営者名"
+        "name": "Koichi Kondo"
       },
       "datePublished": pageData.frontmatter.date || "",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": `https://example.com${pageData.relativePath.replace('.md', '.html')}`
+        "@id": `https://koichikondo.com${pageData.relativePath.replace('.md', '.html')}`
       }
     };
     head.push([
