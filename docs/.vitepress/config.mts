@@ -4,6 +4,7 @@ import { Feed } from 'feed';
 import path from 'path';
 import { writeFileSync } from 'fs';
 
+// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Koichi Kondo",
   description: "個人の学び、思考、知識、アイデアを共有するためのウェブスペース",
@@ -100,57 +101,31 @@ export default defineConfig({
     ['link', { rel: 'alternate', type: 'application/rss+xml', title: 'RSS Feed', href: '/feed.rss' }],
     ['link', { rel: 'stylesheet', href: '/custom.css' }], // 必要に応じて書き換え
   ],
-
   transformHead: ({ pageData }) => {
     const head: HeadConfig[] = [];
 
-    // OpenGraphタグの設定
     if (pageData.frontmatter.title) {
       head.push(['meta', { property: 'og:title', content: pageData.frontmatter.title }]);
     }
+
     if (pageData.frontmatter.description) {
       head.push(['meta', { property: 'og:description', content: pageData.frontmatter.description }]);
     }
+
     if (pageData.frontmatter.url) {
       head.push(['meta', { property: 'og:url', content: pageData.frontmatter.url }]);
     }
+
     if (pageData.frontmatter.image) {
       head.push(['meta', { property: 'og:image', content: pageData.frontmatter.image }]);
     }
+
     if (pageData.frontmatter.type) {
       head.push(['meta', { property: 'og:type', content: pageData.frontmatter.type }]);
     }
 
-    // スキーママークアップの動的生成
-    const schemaType = pageData.frontmatter.schemaType || 'BlogPosting';
-    const headline = pageData.frontmatter.title || 'Default Title';
-    const description = pageData.frontmatter.description || 'Default Description';
-    const datePublished = pageData.frontmatter.date || new Date().toISOString();
-    const url = `https://koichikondo.com${pageData.relativePath}`;
-
-    head.push([
-      'script',
-      { type: 'application/ld+json' },
-      JSON.stringify({
-        '@context': 'https://schema.org',
-        '@type': schemaType,
-        headline,
-        description,
-        author: {
-          '@type': 'Person',
-          name: 'Koichi',
-        },
-        datePublished,
-        mainEntityOfPage: {
-          '@type': 'WebPage',
-          '@id': url,
-        },
-      }),
-    ]);
-
     return head;
   },
-
   vite: {
     build: {
       rollupOptions: {
@@ -178,21 +153,24 @@ export default defineConfig({
       copyright: `© ${new Date().getFullYear()} Koichi Kondo`,
     });
 
+    // Markdownファイルの内容を取得
     const posts = await createContentLoader('**/*.md', {
       excerpt: true,
       render: true,
     }).load();
 
+    // 日付順にソート（新しい順）
     posts.sort(
       (a, b) =>
         +new Date(b.frontmatter.date as string) -
         +new Date(a.frontmatter.date as string)
     );
 
+    // 各投稿をRSSフィードに追加
     for (const post of posts) {
       const { url, excerpt, frontmatter, html } = post;
       if (!frontmatter.title || !frontmatter.date) {
-        continue;
+        continue; // タイトルまたは日付がない場合はスキップ
       }
       feed.addItem({
         title: frontmatter.title,
@@ -204,8 +182,11 @@ export default defineConfig({
       });
     }
 
-    feed.options.image = `${hostname}/images/android-chrome-512x512.png`;
 
+    // RSSフィードに <image> タグを追加するための設定
+    feed.options.image = `${hostname}/images/android-chrome-512x512.png`; // またはロゴ画像のURL
+
+    // RSSフィードを出力
     writeFileSync(path.join(config.outDir, 'feed.rss'), feed.rss2());
   },
 });
