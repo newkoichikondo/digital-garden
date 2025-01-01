@@ -3,6 +3,7 @@ title: "TOEIC受験歴と勉強法｜560点から810点にスコアアップし�
 description: "TOEICで560点から810点へ！効果的な勉強法とおすすめ教材を紹介。これから受験する方や目標スコアを目指す方のための必読ガイド。"
 keywords: ["TOEIC", "TOEIC勉強法", "TOEICスコアアップ", "TOEICリスニング対策", "TOEICリーディング対策"]
 date: 2025-01-01
+image: "/images/toiec_score_koichi.jpeg"
 ---
 
 # TOEIC受験歴と勉強法｜560点から810点にスコアアップした方法と教材
