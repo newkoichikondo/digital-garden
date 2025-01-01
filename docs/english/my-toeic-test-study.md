@@ -18,7 +18,7 @@ schemaType: "EducationalOccupationalProgram"
 |2015年3月15日|345点|215点|560点|
 |2017年3月12日|470点|340点|810点|
 
-![TOEICスコア表](/public/images/toiec_score_koichi.jpeg "TOEICスコアを2年間で560点から810点に向上")
+![TOEICスコア表](/images/toiec_score_koichi.jpeg "TOEICスコアを2年間で560点から810点に向上")
 
 この記事では自分がTOEICで810点を取るまでの過程をシェアしようと思う。似たような境遇の人は少ないとは思うが、これから受験する人やスコアアップを目指している人の参考になれば幸いだ。
 
@@ -36,14 +36,14 @@ schemaType: "EducationalOccupationalProgram"
 
 語彙力を増やすために学生がよくやっている単語帳などの購入も検討したが、いろいろ調べているうちにスキマ時間でもスマホで手軽に単語学習ができる「iKnow!」というアプリを使うことにした。
 
-[![iKnow!](/public/images/iKnow!.png)](https://iknow.jp/referrals/40worojewmjj5b80ecrjhiatxb5mzlv8/signup)
+[![iKnow!](/images/iKnow!.png)](https://iknow.jp/referrals/40worojewmjj5b80ecrjhiatxb5mzlv8/signup)
 
 ::: info 紹介コード
 上記の画像、もしくは[こちらのリンク](https://iknow.jp/referrals/40worojewmjj5b80ecrjhiatxb5mzlv8/signup)から12ヶ月プランを購入すると3ヶ月無料ボーナスが進呈される。
 
 もう販売されていないが、自分はLifetimeプランを購入しているので特にメリットはない😢
 
-<img src="/public/images/iknow_lifetime_plan.jpg" width="300">
+<img src="/images/iknow_lifetime_plan.jpg" width="300">
 :::
 
 このiKnow!はWebブラウザ・iOSアプリとどちらも直感的に使えるので、パソコン作業の合間や料理中、外出中のちょっとしたスキマ時間に遊び感覚で単語を覚えられる。
@@ -64,7 +64,7 @@ schemaType: "EducationalOccupationalProgram"
 
 TOEICのコースは下記の画像のように470点、600点、800点、900点とそれぞれ個人の目標に合わせたものが選べるのがとても良い。
 
-![iKnow!のTOEICのコース](/public/images/iknow_toeic_course.jpeg)
+![iKnow!のTOEICのコース](/images/iknow_toeic_course.jpeg)
 
 ::: tip
 - スキマ時間を活用して語彙力を強化したい方に最適。特にリスニングとリーディングの基礎固めにおすすめ。
@@ -73,7 +73,7 @@ TOEICのコースは下記の画像のように470点、600点、800点、900点
 :::
 
 ## TOEIC(R)テスト 中学英文法で600点！で本当に600点超え
-[<img src="/public/images/toeic_600_book.jpg" width="300">](https://amzn.to/3DPN1xi)
+[<img src="/images/toeic_600_book.jpg" width="300">](https://amzn.to/3DPN1xi)
 
 購入リンク：<https://amzn.to/3DPN1xi>
 
@@ -83,7 +83,7 @@ iKnow!を使い始めた理由と同じく、リーディングの得点が悪�
 
 空所の前後でどの選択肢が当てはまるか、などTOEICの文法問題をパズルを解くように感じさせてくれた。この本をしっかりやり込むことでPart 5と6でしっかり得点を稼げるようになると思う。
 ## TOEIC模試600問で得点アップ！究極のゼミシリーズの使い方
-[<img src="/public/images/toeic_extream_book.jpg" width="300">](https://amzn.to/3PhLHWE)
+[<img src="/images/toeic_extream_book.jpg" width="300">](https://amzn.to/3PhLHWE)
 
 購入リンク：<https://amzn.to/3PhLHWE>
 
