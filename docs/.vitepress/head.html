@@ -1,0 +1,17 @@
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "{{ frontmatter.schemaType || 'BlogPosting' }}",
+      "headline": "{{ title }}",
+      "description": "{{ description }}",
+      "author": {
+        "@type": "Person",
+        "name": "Koichi"
+      },
+      "datePublished": "{{ frontmatter.date }}",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ site.base }}{{ $page.path }}"
+      }
+    }
+    </script>
