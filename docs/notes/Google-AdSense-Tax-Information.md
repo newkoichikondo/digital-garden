@@ -1,8 +1,25 @@
 ---
-title: "Google AdSenseの税務情報への対応（解決済み）"
+title: "Google AdSense税務情報対応｜居住者証明書の取得とアップロード手順"
+description: "Google AdSense税務情報対応で求められる居住者証明書の取得方法と手順を解説。書類準備から税務署対応、アップロードまでの流れを紹介します。"
+keywords:
+  - "Google AdSense"
+  - "税務情報"
+  - "居住者証明書"
+  - "租税条約"
+  - "税務署対応"
+  - "シンガポール税務情報"
+  - "証明書アップロード"
+author: "Koichi Kondo"
 date: 2024-02-29
+image: "/images/google-adsense-tax.jpg"
+canonical: "https://koichikondo.com/google-adsense-tax-info"
+tags:
+  - "Google AdSense"
+  - "税務対応"
+  - "居住者証明書"
 ---
-# Google AdSenseの税務情報への対応（解決済み）
+
+# Google AdSense税務情報対応｜居住者証明書取得とアップロード手順
 ## この記事が役に立ったら
 ↓是非こちらからコーヒー1杯でも奢ってください↓
 
