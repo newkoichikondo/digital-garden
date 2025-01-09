@@ -9,29 +9,21 @@
   Chart.register(...registerables);
   
   export default {
+    props: {
+      data: {
+        type: Object,
+        required: true,
+      },
+      options: {
+        type: Object,
+        required: true,
+      },
+    },
     mounted() {
       new Chart(this.$refs.chartCanvas, {
-        type: 'bar',
-        data: {
-          labels: ['Red', 'Blue', 'Yellow'],
-          datasets: [
-            {
-              label: '# of Votes',
-              data: [12, 19, 3],
-              backgroundColor: ['rgba(255, 99, 132, 0.2)', 'rgba(54, 162, 235, 0.2)', 'rgba(255, 206, 86, 0.2)'],
-              borderColor: ['rgba(255, 99, 132, 1)', 'rgba(54, 162, 235, 1)', 'rgba(255, 206, 86, 1)'],
-              borderWidth: 1,
-            },
-          ],
-        },
-        options: {
-          responsive: true,
-          scales: {
-            y: {
-              beginAtZero: true,
-            },
-          },
-        },
+        type: 'doughnut',
+        data: this.data,
+        options: this.options,
       });
     },
   };

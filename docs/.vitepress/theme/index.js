@@ -1,5 +1,6 @@
 import DefaultTheme from 'vitepress/theme-without-fonts';
 import PostLayout from './components/PostLayout.vue';
+import Table from './components/Table.vue';
 import { h, defineAsyncComponent } from 'vue';
 
 // カスタムCSSの読み込み
@@ -16,5 +17,6 @@ export default {
     enhanceApp({ app }) {
         // Chart.js コンポーネントを登録
         app.component('Chart', defineAsyncComponent(() => import('./components/Chart.vue')));
+        app.component('Table', Table); // Table コンポーネントを登録
     },
 };
