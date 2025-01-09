@@ -2,10 +2,10 @@
     <table>
       <thead>
         <tr>
-          <th>Title</th>
-          <th>Author</th>
-          <th>Completed Date</th>
-          <th>Word Count</th>
+          <th>書籍名</th>
+          <th>著者</th>
+          <th>読了日</th>
+          <th>語数</th>
         </tr>
       </thead>
       <tbody>

@@ -1,3 +1,8 @@
+---
+title: "多読進捗状況"
+description: ""
+keywords: []
+---
 # 多読進捗状況
 
 ## 目標達成率
@@ -7,6 +12,7 @@
 ### 現在の進捗状況
 - **現在の読了語数**: {{ currentWords.toLocaleString() }} 語
 - **残り語数**: {{ remainingWords.toLocaleString() }} 語
+- **達成率**: {{ progressPercentage.toFixed(2) }} %
 
 ## 多読記録
 
@@ -20,6 +26,9 @@ import progressData from './progress.json';
 const currentWords = progressData.books.reduce((sum, book) => sum + book.words, 0);
 const targetWords = 1000000;
 const remainingWords = targetWords - currentWords;
+
+// 達成率（％）
+const progressPercentage = (currentWords / targetWords) * 100;
 
 // グラフ用のデータ
 const chartData = {
