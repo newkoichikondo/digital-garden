@@ -1,13 +1,35 @@
 # Koichi Kondo
+## 自己紹介
+私は「近藤 宏一」です。日本を拠点に活動する開発者であり、多読愛好家です。自分の興味や学びを深めながら、シンプルで役立つアプリの開発や英語学習に取り組んでいます。このサイトでは、自分のプロジェクトや挑戦の記録を公開しています。
+## 現在取り組んでいること
+### 英検2級
+- **試験日**: 2025年1月27日（S-CBTで受験）
+- **目標**: 英語力を体系的に強化し、さらなる高みを目指す。
 
-## このサイトについて
-「koichikondo.com」は「近藤 宏一」個人のWebサイトです。ブログであり、[デジタルガーデン](https://nejimaki-radio.com/digital-garden-blog-indie-website-personal-internet/)でもあります。
+### 洋書多読
+- **スタート**: 2025年から挑戦中。
+- **目標**: 100万語の読了を目指し、少しずつ積み重ねています。
+- **進捗**: [多読進捗状況](./english/tadoku-record)で公開中。
 
-自分だけの庭を手入れするように、時間をかけて作り上げていこうと思います。
+### iOSアプリ開発
+- **コンセプト**: シンプルで使い続けたくなるアプリを開発。
+- **アプリ一覧**:
+  - [ミニマル辞書](./development/minimal-dictionary/minimal-dictionary-introduce): 必要な単語をすぐに引ける、シンプルな辞書アプリ。
+  - [ミニマルポモドーロ](./development/minimal-pomodoro/minimal-pomodoro-introduce): 集中力を高めるためのポモドーロタイマー。
 
-## 問い合わせ
-[こちら](https://forms.gle/M5kwbKQJ5SQz1bKF9)のフォームからお問い合わせください。
+## 実績やできること
+- **アプリ開発**: iOSアプリをゼロから設計・開発し、リリースした経験があります。
+- **英語学習**: TOEICスコア810取得（2017年）、現在も英語力向上に取り組み中。
+- **世界遺産めぐり**: 世界遺産検定準1級取得（2024年7月）、国内・海外を問わず世界遺産を
+- **技術スキル**:
+  - **プログラミング言語**: Swift, Python, JavaScript
+  - **フレームワーク**: SwiftUI, Vue.js, VitePress
+- **執筆**: 個人ブログを通じて学びやノウハウを発信中。
+
 
 <script setup> import PostList from './.vitepress/theme/components/PostList.vue'; </script>
 ## 新着記事一覧
 <PostList />
+
+## 問い合わせ
+[こちら](https://forms.gle/M5kwbKQJ5SQz1bKF9)のフォームからお問い合わせください。
