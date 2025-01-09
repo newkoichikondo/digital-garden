@@ -51,19 +51,7 @@ html:not(.dark) .VPSidebar {
     @apply opacity-0;
 }
 
-.dark .bg-gradient:before,
-.dark .vp-doc:not(._):before {
-    @apply select-none;
-    @apply pointer-events-none;
-    @apply content-[''];
-    @apply absolute;
-    @apply rounded-3xl;
-    @apply opacity-5;
-    @apply bg-gray-900;
-    @apply blur-[100px];
-    @apply w-full;
-    @apply h-full;
-}
+
 
 .VPNavBar .divider-line {
     @apply bg-[var(--vp-c-divider)] !important;
@@ -97,3 +85,10 @@ html:not(.dark) .VPSidebar {
     transform: scaleX(1);
     transform-origin: bottom left;
 }
+
+canvas {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  
