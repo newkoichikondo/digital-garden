@@ -1,5 +1,5 @@
 ---
-title: "Who Was Helen Keller?"
+title: "Who Was Helen Keller?を読了"
 date: 2025-01-10
 ---
 # Who Was Helen Keller?

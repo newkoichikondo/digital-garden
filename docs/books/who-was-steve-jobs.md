@@ -1,5 +1,5 @@
 ---
-title: "Who Was Steve Jobs?"
+title: "Who Was Steve Jobs?を読了"
 date: 2025-01-09
 ---
 # Who Was Steve Jobs?
