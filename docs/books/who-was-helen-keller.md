@@ -1,6 +1,9 @@
 # Who Was Helen Keller?
+[<img src="https://m.media-amazon.com/images/I/91vJ8F-5VWL._SL1500_.jpg" width="300">](https://amzn.to/40pf9jP)
 ## 書籍情報
-- 購入リンク: <>
-- 読了日: 年月日
-## 要点
-- 
+- 購入リンク: <https://amzn.to/40pf9jP>
+## メモ
+- ヘレン・ケラーは日本から秋田犬を送られていた。
+- 日本語で調べた情報によるとその秋田犬はアメリカに到着後2ヶ月で感染症により死亡😭
+	- [ヘレン・ケラーと秋田犬の深くてうるわしい関係](https://akitainu-news.com/archives/935)
+- その知らせを受けた秋田県はその兄弟である秋田犬を再度寄贈した。
