@@ -1,3 +1,7 @@
+---
+title: "Who Was Steve Jobs?"
+date: 2025-01-09
+---
 # Who Was Steve Jobs?
 [<img src="https://m.media-amazon.com/images/I/81Yqf+YopAL._SL1500_.jpg" width="300">](https://amzn.to/3DMSbKP)
 ## 書籍情報
