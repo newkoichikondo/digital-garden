@@ -3,8 +3,14 @@
         {
             "title": "Who Was Helen Keller?",
             "author": "Gare Thompson",
-            "completedDate": "2025年1月10日",
+            "completedDate": "2025年1月9日",
             "words": 8719
+        },
+        {
+            "title": "Who Was Steve Jobs?",
+            "author": "Pam Pollack",
+            "completedDate": "2025年1月10日",
+            "words": 7292
         }
     ]
 }
