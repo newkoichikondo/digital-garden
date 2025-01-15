@@ -159,7 +159,10 @@ export default defineConfig({
       rollupOptions: {
         input: {
           appads: '/app-ads.txt'
-        }
+        },
+        output: {
+          inlineDynamicImports: false,
+        },
       }
     },
     css: {

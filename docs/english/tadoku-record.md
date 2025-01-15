@@ -20,6 +20,15 @@ keywords: ["多読", "目標達成率", "進捗状況", "語数", "読書記録"
 
 <Table :books="books" />
 
+## いつかは挑戦したい本
+
+- [The London Eye Mystery](https://amzn.to/3DRwnOd)
+- [Of Mice and Men](https://amzn.to/3PzkezL)
+
+
+
+
+
 <script setup>
 // Markdownから書籍データを解析する関数
 function parseBooksFromMarkdown() {
