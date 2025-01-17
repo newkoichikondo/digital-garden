@@ -1,8 +1,8 @@
 ---
-title: "Who Was Albert Einstein?を読了"
+title: "Who Was Albert Einstein?"
 date: 2025-01-17
 ---
-# Who Was Albert Einstein?を読了
+# Who Was Albert Einstein?
 [<img src="https://m.media-amazon.com/images/I/91BX5S+-Z1L._SL1500_.jpg" width="300">](https://amzn.to/42hKEOj)
 ## 書籍情報
 - 購入リンク: <https://amzn.to/42hKEOj>
