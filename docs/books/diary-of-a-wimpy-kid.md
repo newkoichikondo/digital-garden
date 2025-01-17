@@ -1,6 +1,6 @@
 ---
 title: "Diary Of A Wimpy Kidを読了"
-date: 2025-01-17
+date: 2025-01-16
 ---
 # Diary Of A Wimpy Kidを読了
 [<img src="https://m.media-amazon.com/images/I/81R2N4PRuUL._SL1500_.jpg" width="300">](https://amzn.to/3WiBc9x)
