@@ -42,6 +42,11 @@ function parseBooksFromMarkdown() {
   author: "Pam Pollack"
   completedDate: "2025年1月10日"
   words: 7292
+
+- title: "Diary of a Wimpy Kid"
+  author: "Jeff Kinney"
+  completedDate: "2025年1月17日"
+  words: 19784
   `;
   return rawBooks
     .trim()
