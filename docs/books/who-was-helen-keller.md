@@ -2,7 +2,7 @@
 title: "Who Was Helen Keller?を読了"
 date: 2025-01-10
 ---
-# Who Was Helen Keller?
+# Who Was Helen Keller?を読了
 [<img src="https://m.media-amazon.com/images/I/91vJ8F-5VWL._SL1500_.jpg" width="300">](https://amzn.to/40pf9jP)
 ## 書籍情報
 - 購入リンク: <https://amzn.to/40pf9jP>

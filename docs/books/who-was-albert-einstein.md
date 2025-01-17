@@ -1,5 +1,5 @@
 ---
-title: Who Was Albert Einstein?を読了
+title: "Who Was Albert Einstein?を読了"
 date: 2025-01-10
 ---
 # Who Was Albert Einstein?を読了

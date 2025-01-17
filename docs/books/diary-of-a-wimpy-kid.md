@@ -1,5 +1,5 @@
 ---
-title: Diary Of A Wimpy Kidを読了
+title: "Diary Of A Wimpy Kidを読了"
 date: 2025-01-17
 ---
 # Diary Of A Wimpy Kidを読了

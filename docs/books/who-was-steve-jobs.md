@@ -2,7 +2,7 @@
 title: "Who Was Steve Jobs?を読了"
 date: 2025-01-09
 ---
-# Who Was Steve Jobs?
+# Who Was Steve Jobs?を読了
 [<img src="https://m.media-amazon.com/images/I/81Yqf+YopAL._SL1500_.jpg" width="300">](https://amzn.to/3DMSbKP)
 ## 書籍情報
 - 購入リンク: <https://amzn.to/3DMSbKP>
