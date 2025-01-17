@@ -1,4 +1,4 @@
----
+  ---
 title: "多読進捗状況"
 description: "目標語数100万語に向けた多読の進捗状況を可視化。現在の達成率、読了語数、残り語数を円グラフで表示し、書籍ごとの詳細な記録も確認できます。"
 keywords: ["多読", "目標達成率", "進捗状況", "語数", "読書記録", "読書管理", "読了記録", "読書進捗", "多読グラフ"]
@@ -45,8 +45,13 @@ function parseBooksFromMarkdown() {
 
 - title: "Diary of a Wimpy Kid"
   author: "Jeff Kinney"
-  completedDate: "2025年1月17日"
+  completedDate: "2025年1月16日"
   words: 19784
+
+- title: "Who Was Albert Einstein?"
+  author: "Jess Brallier"
+  completedDate: "2025年1月17日"
+  words: 8922
   `;
   return rawBooks
     .trim()
