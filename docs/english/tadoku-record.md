@@ -52,6 +52,11 @@ function parseBooksFromMarkdown() {
   author: "Jess Brallier"
   completedDate: "2025年1月17日"
   words: 8922
+
+- title: "Who Was Anne Frank?"
+  author: "Ann Abramson"
+  completedDate: "2025年1月18日"
+  words: 7086
   `;
   return rawBooks
     .trim()
