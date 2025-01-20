@@ -57,6 +57,11 @@ function parseBooksFromMarkdown() {
   author: "Ann Abramson"
   completedDate: "2025年1月18日"
   words: 7086
+
+- title: "Who Was Charles Darwin?"
+  author: "Deborah Hopkinson"
+  completedDate: "2025年1月20日"
+  words: 6976
   `;
   return rawBooks
     .trim()
