@@ -43,7 +43,7 @@ function parseBooksFromMarkdown() {
   completedDate: "2025年1月10日"
   words: 7292
 
-- title: "Diary of a Wimpy Kid"
+- title: "Diary of a Wimpy Kid #1"
   author: "Jeff Kinney"
   completedDate: "2025年1月16日"
   words: 19784
@@ -63,7 +63,7 @@ function parseBooksFromMarkdown() {
   completedDate: "2025年1月20日"
   words: 6976
 
-- title: "Diary of a Wimpy Kid: Rodrick Rules"
+- title: "Diary of a Wimpy Kid #2"
   author: "Jeff Kinney"
   completedDate: "2025年1月21日"
   words: 20165
