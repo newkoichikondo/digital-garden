@@ -62,6 +62,11 @@ function parseBooksFromMarkdown() {
   author: "Deborah Hopkinson"
   completedDate: "2025年1月20日"
   words: 6976
+
+- title: "Diary of a Wimpy Kid: Rodrick Rules"
+  author: "Jeff Kinney"
+  completedDate: "2025年1月21日"
+  words: 20165
   `;
   return rawBooks
     .trim()
