@@ -67,6 +67,11 @@ function parseBooksFromMarkdown() {
   author: "Jeff Kinney"
   completedDate: "2025年1月21日"
   words: 20165
+
+- title: "Who Was Leonardo da Vinci?"
+  author: "Roberta Edwards"
+  completedDate: "2025年1月24日"
+  words: 8607
   `;
   return rawBooks
     .trim()
