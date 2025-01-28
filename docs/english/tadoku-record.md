@@ -72,6 +72,11 @@ function parseBooksFromMarkdown() {
   author: "Roberta Edwards"
   completedDate: "2025年1月24日"
   words: 8607
+
+- title: "Holes"
+  author: "Louis Sachar"
+  completedDate: "2025年1月28日"
+  words: 47079
   `;
   return rawBooks
     .trim()
