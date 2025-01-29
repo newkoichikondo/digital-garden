@@ -24,6 +24,9 @@ keywords: ["多読", "目標達成率", "進捗状況", "語数", "読書記録"
 
 - [The London Eye Mystery](https://amzn.to/3DRwnOd)
 - [Of Mice and Men](https://amzn.to/3PzkezL)
+- [To Kill A Mockingbird](https://amzn.to/4giNtBK)
+- [Frankenstein](https://amzn.to/3CvB4wH)
+- [1984](https://amzn.to/3Codh1H)
 
 
 
@@ -77,6 +80,11 @@ function parseBooksFromMarkdown() {
   author: "Louis Sachar"
   completedDate: "2025年1月28日"
   words: 47079
+
+- title: "Who was Neil Armstrong?"
+  author: "Roberta Edwards"
+  completedDate: "2025年1月29日"
+  words: 6602
   `;
   return rawBooks
     .trim()
