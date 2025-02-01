@@ -20,15 +20,21 @@ keywords: ["多読", "目標達成率", "進捗状況", "語数", "読書記録"
 
 <Table :books="books" />
 
-## いつかは挑戦したい本
+## 読みたい本リスト
 
 - [The London Eye Mystery](https://amzn.to/3DRwnOd)
 - [Of Mice and Men](https://amzn.to/3PzkezL)
 - [To Kill A Mockingbird](https://amzn.to/4giNtBK)
 - [Frankenstein](https://amzn.to/3CvB4wH)
 - [1984](https://amzn.to/3Codh1H)
-
-
+- [Number the Stars: A Newbery Award Winner](https://amzn.to/3CuF94g)
+- [How to Steal a Dog](https://amzn.to/40TZYiX)
+- [Tuesdays With Morrie](https://amzn.to/4hEc7hg)
+- [Matilda](https://amzn.to/4jIbGES)
+- [The Hatmakers](https://amzn.to/4hkxzs4)
+- [Invisible Women](https://amzn.to/4hnN0zW)
+- [Crazy Rich Asians](https://amzn.to/4gsNUtj)
+- [AI 2041: Ten Visions for Our Future](https://amzn.to/3Ei1rXs)
 
 
 
