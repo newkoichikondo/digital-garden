@@ -91,6 +91,11 @@ function parseBooksFromMarkdown() {
   author: "Roberta Edwards"
   completedDate: "2025年1月29日"
   words: 6602
+
+- title: "Harry Potter and the Philosopher's Stone"
+  author: " J.K. Rowling"
+  completedDate: "2025年2月3日"
+  words: 77325
   `;
   return rawBooks
     .trim()
