@@ -28,7 +28,6 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'instagram', link: 'https://www.instagram.com/newkoichikondo/' },
-      { icon: 'x', link: 'https://twitter.com/NewKoichiKondo' },
       { icon: 'github', link: 'https://github.com/newkoichikondo' },
     ],
     footer: {
