@@ -93,9 +93,14 @@ function parseBooksFromMarkdown() {
   words: 6602
 
 - title: "Harry Potter and the Philosopher's Stone"
-  author: " J.K. Rowling"
+  author: "J.K. Rowling"
   completedDate: "2025年2月3日"
   words: 77325
+
+- title: "Harry Potter and the Chamber of Secrets"
+  author: "J.K. Rowling"
+  completedDate: "2025年2月26日"
+  words: 84799
   `;
   return rawBooks
     .trim()
