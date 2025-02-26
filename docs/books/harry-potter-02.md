@@ -2,7 +2,7 @@
 title: "Harry Potter and the Chamber of Secrets"
 date: 2025-02-26
 ---
-# タイトル
+# Harry Potter and the Chamber of Secrets
 [<img src="https://m.media-amazon.com/images/I/81Wbfijio4L._SL1500_.jpg" width="300">](https://amzn.to/41uPGpE)
 ## 書籍情報
 - 購入リンク: <https://amzn.to/41uPGpE>
