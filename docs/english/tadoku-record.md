@@ -101,6 +101,11 @@ function parseBooksFromMarkdown() {
   author: "J.K. Rowling"
   completedDate: "2025年2月26日"
   words: 84799
+
+- title: "Harry Potter and the Prisoner of Azkaban"
+  author: "J.K. Rowling"
+  completedDate: "2025年3月14日"
+  words: 106821
   `;
   return rawBooks
     .trim()
