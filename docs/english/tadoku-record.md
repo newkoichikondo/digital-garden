@@ -106,6 +106,11 @@ function parseBooksFromMarkdown() {
   author: "J.K. Rowling"
   completedDate: "2025年3月14日"
   words: 106821
+
+- title: "Harry Potter and the Goblet of Fire"
+  author: "J.K. Rowling"
+  completedDate: "2025年4月3日"
+  words: 190858
   `;
   return rawBooks
     .trim()
