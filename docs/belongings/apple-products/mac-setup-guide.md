@@ -78,7 +78,7 @@ brew update && brew upgrade && brew cleanup
 
 Caps Lock → Ctrlや英数/かなキーのリマップに使用。細かいキーリマップやLayer風入力にも対応可能。
 
-::: details 英字キーボードの場合
+::: info 英字キーボードの場合は特におすすめ
 cmd（左）でアルファベット入力、cmd（右）で日本語入力にできる
 :::
 
