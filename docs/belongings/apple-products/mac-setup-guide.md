@@ -1,3 +1,7 @@
+---
+title: "Mac 初期セットアップ＆カスタマイズガイド"
+date: 2025-04-11
+---
 # 💻 Mac 初期セットアップ＆カスタマイズガイド
 
 このページは、Mac mini (M4, 2025年) を導入してから行った初期設定や、アプリのセットアップ、キーボード・Finder・NASなどの環境整備を記録したものです。
@@ -74,20 +78,9 @@ brew update && brew upgrade && brew cleanup
 
 Caps Lock → Ctrlや英数/かなキーのリマップに使用。細かいキーリマップやLayer風入力にも対応可能。
 
-::: 英字キーボードの場合
-cmdキーの左でアルファベット入力、cmd（右
+::: details 英字キーボードの場合
+cmd（左）でアルファベット入力、cmd（右）で日本語入力にできる
 :::
-
-## 🔌 SwitchBot × Alexa/Google Home 音声操作
-
-第二種電気工事士資格ありのため、照明・コンセントをスマート化可能。
-
-- SwitchBot Hub 経由で家電・照明を連携
-    
-- Google Home / Alexa 経由で音声操作
-    
-- Homebridgeを使えばHomeKit連携も可能
-    
 
 ## 🧾 Finder & スクリーンショット設定
 
@@ -123,17 +116,3 @@ killall Finder
     
 - AlfredでVault操作を高速化（ワークフロー構築中）
     
-
-## 📁 保管フォルダ構成（このノート）
-
-このノートは以下のパスに保存：
-
-`docs/belongings/apple-products/mac-setup-guide.md`
-
-## 🔚 今後やりたいこと（メモ）
-
-- Obsidian Git連携（自動Push）
-    
-- Alfred Workflowのテンプレート化
-    
-- Launch Agentsなどでbrew update自動化
