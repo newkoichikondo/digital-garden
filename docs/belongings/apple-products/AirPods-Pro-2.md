@@ -17,3 +17,8 @@ AirPods Pro（第1世代）からの買い替え。
 ## いまいちポイント
 ### Lightning端子
 iPhone 15 ProがUSB-Cになったことで、残るLightning端子はついにAirPods Proだけになった。それでもApple Watchの充電器で充電できいるのであまり問題にはならないが、Lightningケーブルをすべて処分したので、いまいちポイントとして挙げておくことにする。
+
+## ぶっ壊れました
+![[airpordspro_broken.jpeg]]
+
+Amazonで買った3,000円くらいのイヤーチップを取り外す時に、パッカーンしてしまいました。
