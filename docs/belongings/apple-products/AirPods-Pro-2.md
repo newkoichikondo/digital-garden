@@ -19,6 +19,13 @@ AirPods Pro（第1世代）からの買い替え。
 iPhone 15 ProがUSB-Cになったことで、残るLightning端子はついにAirPods Proだけになった。それでもApple Watchの充電器で充電できいるのであまり問題にはならないが、Lightningケーブルをすべて処分したので、いまいちポイントとして挙げておくことにする。
 
 ## ぶっ壊れました
-![[airpordspro_broken.jpeg]]
+
+2025年4月12日追記
+
+<img src="/images/airpordspro_broken.jpeg" width="300">
 
 Amazonで買った3,000円くらいのイヤーチップを取り外す時に、パッカーンしてしまいました。
+
+すぐにAppleに問い合わせましたが、もちろん保証が切れているので修理費は14,000円ほどかかるみたいです。
+
+とりあえず耳を塞ぐイヤホンに不満を感じていたので、[[Shokz OpenFit2]]を購入ました。AirPords Pro（第3世代）が出るまではこれをメインで使いたいと思います。
