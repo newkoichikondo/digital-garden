@@ -111,6 +111,11 @@ function parseBooksFromMarkdown() {
   author: "J.K. Rowling"
   completedDate: "2025年4月3日"
   words: 190858
+
+- title: "Harry Potter and the Order of the Phoenix"
+  author: "J.K. Rowling"
+  completedDate: "2025年4月27日"
+  words: 257154
   `;
   return rawBooks
     .trim()
