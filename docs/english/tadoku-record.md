@@ -141,7 +141,7 @@ const books = parseBooksFromMarkdown();
 
 // 現在の語数と目標
 const currentWords = books.reduce((sum, book) => sum + book.words, 0);
-const targetWords = 1000000;
+const targetWords = 2000000;
 const remainingWords = targetWords - currentWords;
 
 // 達成率（％）
