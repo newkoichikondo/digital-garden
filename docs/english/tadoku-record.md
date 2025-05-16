@@ -116,6 +116,11 @@ function parseBooksFromMarkdown() {
   author: "J.K. Rowling"
   completedDate: "2025年4月27日"
   words: 257154
+
+- title: "Harry Potter and the Half-Blood Prince"
+  author: "J.K. Rowling"
+  completedDate: "2025年5月16日"
+  words: 169441
   `;
   return rawBooks
     .trim()
