@@ -11,6 +11,7 @@ keywords: ["多読", "目標達成率", "進捗状況", "語数", "読書記録"
 <Chart :data="chartData" :options="chartOptions" />
 
 ### 現在の進捗状況
+- **目標語数**: {{ targetWords.toLocaleString() }} 語
 - **現在の読了語数**: {{ currentWords.toLocaleString() }} 語
 - **残り語数**: {{ remainingWords.toLocaleString() }} 語
 - **達成率**: {{ progressPercentage.toFixed(2) }} %
