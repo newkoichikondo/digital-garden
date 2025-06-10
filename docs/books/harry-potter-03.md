@@ -2,7 +2,7 @@
 title: "Harry Potter and the Prisoner of Azkaban"
 date: 2025-03-14
 ---
-# タイトル
+# Harry Potter and the Prisoner of Azkaban
 [<img src="https://m.media-amazon.com/images/I/81NQA1BDlnL._SL1500_.jpg" width="300">](https://amzn.to/3XTuIhZ)
 ## 書籍情報
 - 購入リンク: <https://amzn.to/3XTuIhZ>
