@@ -122,6 +122,11 @@ function parseBooksFromMarkdown() {
   author: "J.K. Rowling"
   completedDate: "2025年5月16日"
   words: 169441
+
+- title: "Harry Potter and the Deathly Hallows"
+  author: "J.K. Rowling"
+  completedDate: "2025年6月8日"
+  words: 116230
   `;
   return rawBooks
     .trim()
