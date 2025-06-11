@@ -127,6 +127,11 @@ function parseBooksFromMarkdown() {
   author: "J.K. Rowling"
   completedDate: "2025年6月8日"
   words: 116230
+
+- title: "Harry Potter and the Cursed Child"
+  author: "J.K. Rowling"
+  completedDate: "2025年6月11日"
+  words: 45268
   `;
   return rawBooks
     .trim()
